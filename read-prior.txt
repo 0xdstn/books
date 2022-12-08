@@ -1,34 +1,34 @@
-Harry Potter and the Sorcerer's Stone | J.K. Rowling | 5 | NONE
-Harry Potter and the Chamber of Secrets | J.K. Rowling | 5 | NONE
-Harry Potter and the Prisoner of Azkaban | J.K. Rowling | 5 | NONE
-Harry Potter and the Goblet of Fire | J.K. Rowling | 5 | NONE
-Harry Potter and the Order of the Phoenix | J.K. Rowling | 5 | NONE
-Harry Potter and the Half-Blood Prince | J.K. Rowling | 5 | NONE
-Harry Potter and the Deathly Hallows | J.K. Rowling | 5 | NONE
-Alices Adventures Underground | Lewis Carroll | 3 | NONE
-The Dead Zone | Stephen King | 3 | NONE
-Lord of the Flies | William Golding | 3 | NONE
-Survivor | Chuck Palahniuk | 4 | NONE
-Fight Club | Chuck Palahniuk | 4 | NONE
-Choke | Chuck Palahniuk | 3 | NONE
-Rant | Chuck Palahniuk | 3 | NONE
-The Alchemyst | Michael Scott | 4 | NONE
-The Magician | Michael Scott | 4 | NONE
-The Sorceress | Michael Scott | 4 | NONE
-The Necromancer | Michael Scott | 3 | NONE
-The Future of Us | Jay Asher | 3 | NONE
-The Zombie Survival Guide | Max Brooks | 3 | NONE
-World War Z | Max Brooks | 3 | NONE
-The Hunger Games | Suzanne Collins | 3 | NONE
-Catching Fire | Suzanne Collins | 4 | NONE
-Mockingjay | Suzanne Collins | 4 | NONE
-The Dark Fields | Alan Glynn | 4 | NONE
-Reamde | Neal Stephenson | 4 | NONE
-Ghost in the Wires | Kevin D. Mitnick | 4 | NONE
-Gone Girl | Gillian Flynn | 5 | NONE
-Little Brother | Cory Doctorow | 5 | NONE
-Homeland | Cory Doctorow | 5 | NONE
-Lawful Interception | Cory Doctorow | 5 | NONE
-Ready Player One | Ernest Cline | 5 | NONE
-Lacero | Andy Weir | 4 | NONE
-Violent Python | T.J. O'Connor | 3 | NONE
+Harry Potter and the Sorcerer's Stone | J.K. Rowling
+Harry Potter and the Chamber of Secrets | J.K. Rowling
+Harry Potter and the Prisoner of Azkaban | J.K. Rowling
+Harry Potter and the Goblet of Fire | J.K. Rowling
+Harry Potter and the Order of the Phoenix | J.K. Rowling
+Harry Potter and the Half-Blood Prince | J.K. Rowling
+Harry Potter and the Deathly Hallows | J.K. Rowling
+Alices Adventures Underground | Lewis Carroll
+The Dead Zone | Stephen King
+Lord of the Flies | William Golding
+Survivor | Chuck Palahniuk
+Fight Club | Chuck Palahniuk
+Choke | Chuck Palahniuk
+Rant | Chuck Palahniuk
+The Alchemyst | Michael Scott
+The Magician | Michael Scott
+The Sorceress | Michael Scott
+The Necromancer | Michael Scott
+The Future of Us | Jay Asher
+The Zombie Survival Guide | Max Brooks
+World War Z | Max Brooks
+The Hunger Games | Suzanne Collins
+Catching Fire | Suzanne Collins
+Mockingjay | Suzanne Collins
+The Dark Fields | Alan Glynn
+Reamde | Neal Stephenson
+Ghost in the Wires | Kevin D. Mitnick
+Gone Girl | Gillian Flynn
+Little Brother | Cory Doctorow
+Homeland | Cory Doctorow
+Lawful Interception | Cory Doctorow
+Ready Player One | Ernest Cline
+Lacero | Andy Weir
+Violent Python | T.J. O'Connor
