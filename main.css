@@ -1,0 +1,98 @@
+html, body {
+    height: 100%;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+body {
+    background: #222;
+    color: #efefef;
+	font-family: "Fira Code", monospace;
+	font-size: 15px;
+	box-sizing: border-box;
+	padding: 2em;
+	letter-spacing: 1px;
+}
+
+nav {
+    margin-bottom: 2em;
+}
+
+a {
+	padding-bottom: 1px;
+	color: #00aaee;
+	text-decoration: none;
+	font-weight: 700;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+em {
+    color: #999;
+    font-style: italic;
+}
+
+strong {
+    color: #efefef;
+	font-weight: 700;
+}
+
+p,li {
+	font-size: 1em;
+}
+
+ul, ol {
+	padding: 0 0 2em;
+}
+
+li { 
+    margin-bottom: .5em;
+}
+
+ol {
+	margin-left: 1em;
+}
+
+ul li {
+	list-style: disc;
+	margin-left: 1.2em;
+}
+
+ol li {
+	list-style: decimal-leading-zero;
+	margin-left: 1.75em;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: #fff;
+	display: flex;
+    font-weight: 700;
+    margin-top: 0;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.75em;
+}
+
+h3 {
+    font-size: 1.25em;
+}
+
+h4 {
+    font-size: 1em;
+}
+
+h5 {
+    font-size: 1em;
+}
+
+h6 {
+    font-size: 1em;
+}
