@@ -15,6 +15,14 @@ body {
 	letter-spacing: 1px;
 }
 
+header {
+    padding-bottom: 1em;
+}
+
+header a {
+    margin-right: 8px;
+}
+                                  
 nav {
     margin-bottom: 2em;
 }

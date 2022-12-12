@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
-header = '<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /><link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="main.css" /><title>Books</title></head><body><h1><a href="index.html">Books</a></h1>'
+header = '<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /><link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="main.css" /><title>Books</title></head><body>'
+header += '<header><a href="/~dustin/">~dustin</a> <a href="/~dustin/hello">hello</a> <a href="/~dustin/now">now</a> <a href="/~dustin/writing">writing</a> <a href="/~dustin/books">reading</a> <a href="/~dustin/feeds">feeds</a></header>'
+header += '<h1><a href="index.html">Books</a></h1>'
 header += '<nav>'
 header += '<a href="2022.html">2022</a> | <a href="2021.html">2021</a> | <a href="2020.html">2020</a> | <a href="2019.html">2019</a> | <a href="prior.html">prior</a><br><br>'
 header += '<a href="tags.html">tags</a> | <a href="toread.html">to read</a>'
@@ -20,9 +22,9 @@ for b in current:
     index += '<li><strong>' + b[0] + '</strong> <em>by ' + b[1] + '</em></li>'
 index += '</ul>'
 
-index += '<p>'
-index += '<em>Source code: <a href="https://github.com/0xdstn/books" target="_blank">https://github.com/0xdstn/books</a></em><br>'
-index += '<em>About: <a href="https://tilde.town/~dustin/projects/books" target="_blank">https://tilde.town/~dustin/projects/books</a></em>'
+index += '<p style="word-break:break-all;">'
+index += '<em>Source code:<br><a href="https://github.com/0xdstn/books" target="_blank">https://github.com/0xdstn/books</a></em><br><br>'
+index += '<em>About:<br><a href="https://tilde.town/~dustin/projects/books" target="_blank">https://tilde.town/~dustin/projects/books</a></em>'
 index += '</p>'
 
 index += footer
@@ -105,7 +107,17 @@ for i,t in enumerate(allTags):
 
     tag += '<ul>'
     for b in books[i]:
-        tag += '<li><strong>' + b[0] + '</strong> <em>by ' + b[1] + '</em></li>'
+        tags = b[2].strip().split(',')
+        tHtml = ''
+        if tags[0] != '':
+            tHtml += ' ('
+            for tt in tags:
+                tHtml +=  '<a href="tag-'+tt+'.html">'+tt+'</a>,' 
+            tHtml = tHtml[:len(tHtml)-1]
+            tHtml += ')'
+        else:
+            tHtml += '(<a href="tag-untagged.html">untagged</a>)'
+        tag += '<li><strong>' + b[0] + '</strong> <em>by ' + b[1] + '</em>' + tHtml + '</li>'
     tag += '</ul>'
 
     tag += footer
