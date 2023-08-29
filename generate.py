@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 header = '<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /><link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="main.css" /><title>Books</title></head><body>'
-header += '<header><a href="/~dustin/">~dustin</a> <a href="/~dustin/hello">hello</a> <a href="/~dustin/writing">writing</a> <a href="/~dustin/books">reading</a> <a href="/~dustin/feeds">feeds</a></header>'
+header += '<header><a href="/">0xdstn</a> <a href="/hello">hello</a> <a href="/writing">writing</a>  <a href="/thoughts">thoughts</a> <a href="/books">reading</a> <a href="/feeds">feeds</a></header>'
 header += '<h1><a href="index.html">Books</a></h1>'
 header += '<nav>'
 header += '<a href="2023.html">2023</a> | <a href="2022.html">2022</a> | <a href="2021.html">2021</a> | <a href="2020.html">2020</a> | <a href="2019.html">2019</a> | <a href="prior.html">prior</a><br><br>'
@@ -24,7 +24,7 @@ index += '</ul>'
 
 index += '<p style="word-break:break-all;">'
 index += '<em>Source code:<br><a href="https://github.com/0xdstn/books" target="_blank">https://github.com/0xdstn/books</a></em><br><br>'
-index += '<em>About:<br><a href="https://tilde.town/~dustin/projects/books" target="_blank">https://tilde.town/~dustin/projects/books</a></em>'
+index += '<em>About:<br><a href="https://0xdstn.site/projects/books" target="_blank">https://0xdstn.site/projects/books</a></em>'
 index += '</p>'
 
 index += footer
