@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
 header = '<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /><link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="main.css" /><title>Books</title></head><body>'
-header += '<header><a href="/~dustin/">~dustin</a> <a href="/~dustin/hello">hello</a> <a href="/~dustin/now">now</a> <a href="/~dustin/writing">writing</a> <a href="/~dustin/books">reading</a> <a href="/~dustin/feeds">feeds</a></header>'
+header += '<header><a href="/~dustin/">~dustin</a> <a href="/~dustin/hello">hello</a> <a href="/~dustin/writing">writing</a> <a href="/~dustin/books">reading</a> <a href="/~dustin/feeds">feeds</a></header>'
 header += '<h1><a href="index.html">Books</a></h1>'
 header += '<nav>'
-header += '<a href="2022.html">2022</a> | <a href="2021.html">2021</a> | <a href="2020.html">2020</a> | <a href="2019.html">2019</a> | <a href="prior.html">prior</a><br><br>'
+header += '<a href="2023.html">2023</a> | <a href="2022.html">2022</a> | <a href="2021.html">2021</a> | <a href="2020.html">2020</a> | <a href="2019.html">2019</a> | <a href="prior.html">prior</a><br><br>'
 header += '<a href="tags.html">tags</a> | <a href="toread.html">to read</a>'
 header += '</nav>'
 footer = '</body></html>'
@@ -33,7 +33,7 @@ indexFile = open('index.html', "w+")
 indexFile.write(index)
 indexFile.close()
 
-for yr in ["2022","2021","2020","2019","prior"]:
+for yr in ["2023","2022","2021","2020","2019","prior"]:
     year = header
 
     with open('read-'+yr+'.txt') as f:
@@ -42,10 +42,21 @@ for yr in ["2022","2021","2020","2019","prior"]:
 
     year += '<h2>'+yr+'</h2>'
 
-    year += '<ul>'
+    if len(y) == 0:
+        year += '<p><em>TBD</em></p>'
+
+    if yr == 'prior':
+        year += '<ul>'
+    else:
+        year += '<ol>'
+
     for b in y:
         year += '<li><strong>' + b[0] + '</strong> <em>by ' + b[1] + '</em></li>'
-    year += '</ul>'
+
+    if yr == 'prior':
+        year += '</ul>'
+    else:
+        year += '</ol>'
 
     year += footer
 
@@ -59,9 +70,10 @@ with open('toread.txt') as f:
     tor = [x.split(' | ') for x in f.readlines()]
     f.close()
 
-toRead += '<h2>To Read</h2>'
 
-toRead += '<ul>'
+ownedList = ''
+notOwnedList = ''
+
 for b in tor:
     tags = b[2].strip().split(',')
     tHtml = ''
@@ -72,8 +84,23 @@ for b in tor:
         tHtml = tHtml[:len(tHtml)-1]
         tHtml += ')'
     else:
-        tHtml += '(<a href="tag-untagged.html">untagged</a>)'
-    toRead += '<li><strong>' + b[0] + '</strong> <em>by ' + b[1] + '</em>' + tHtml + '</li>'
+        tHtml += ' (<a href="tag-untagged.html">untagged</a>)'
+
+    li = '<li><strong>' + b[0] + '</strong> <em>by ' + b[1] + '</em>' + tHtml + '</li>'
+
+    if 'owned' in tags:
+        ownedList += li
+    else:
+        notOwnedList += li
+
+toRead += '<h2>To Read (' + str(len(tor)) + ')</h2>'
+toRead += '<h3>Owned</h3>'
+toRead += '<ul>'
+toRead += ownedList
+toRead += '</ul>'
+toRead += '<h3>Not Owned</h3>'
+toRead += '<ul>'
+toRead += notOwnedList
 toRead += '</ul>'
 
 toRead += footer
@@ -103,9 +130,9 @@ for b in tor:
 for i,t in enumerate(allTags):
     tag = header
 
-    tag += '<h2>Tag: ' + t + '</h2>'
+    ownedList = ''
+    notOwnedList = ''
 
-    tag += '<ul>'
     for b in books[i]:
         tags = b[2].strip().split(',')
         tHtml = ''
@@ -116,9 +143,27 @@ for i,t in enumerate(allTags):
             tHtml = tHtml[:len(tHtml)-1]
             tHtml += ')'
         else:
-            tHtml += '(<a href="tag-untagged.html">untagged</a>)'
-        tag += '<li><strong>' + b[0] + '</strong> <em>by ' + b[1] + '</em>' + tHtml + '</li>'
-    tag += '</ul>'
+            tHtml += ' (<a href="tag-untagged.html">untagged</a>)'
+
+        li = '<li><strong>' + b[0] + '</strong> <em>by ' + b[1] + '</em>' + tHtml + '</li>'
+
+        if 'owned' in tags:
+            ownedList += li
+        else:
+            notOwnedList += li
+
+    tag += '<h2>Tag: ' + t + ' (' + str(len(books[i])) + ')</h2>'
+    if ownedList != '':
+        if t != 'owned':
+            tag += '<h3>Owned</h3>'
+        tag += '<ul>'
+        tag += ownedList
+        tag += '</ul>'
+    if t != 'owned' and notOwnedList != '':
+        tag += '<h3>Not Owned</h3>'
+        tag += '<ul>'
+        tag += notOwnedList
+        tag += '</ul>'
 
     tag += footer
 
@@ -140,4 +185,3 @@ tags += footer
 tagsFile = open('tags.html', "w+")
 tagsFile.write(tags)
 tagsFile.close()
-

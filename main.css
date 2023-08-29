@@ -6,8 +6,8 @@ html, body {
 }
 
 body {
-    background: #222;
-    color: #efefef;
+    background: #fff;
+    color: #1a1a1a;
 	font-family: "Fira Code", monospace;
 	font-size: 15px;
 	box-sizing: border-box;
@@ -29,8 +29,8 @@ nav {
 
 a {
 	padding-bottom: 1px;
-	color: #00aaee;
-	text-decoration: none;
+	color: #000;
+	text-decoration: underline;
 	font-weight: 700;
 }
 
@@ -39,12 +39,12 @@ a:hover {
 }
 
 em {
-    color: #999;
+    color: #666;
     font-style: italic;
 }
 
 strong {
-    color: #efefef;
+    color: #000;
 	font-weight: 700;
 }
 
@@ -75,7 +75,7 @@ ol li {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    color: #fff;
+    color: #000;
 	display: flex;
     font-weight: 700;
     margin-top: 0;
