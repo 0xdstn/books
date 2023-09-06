@@ -616,7 +616,6 @@ Do Androids Dream of Electric Sheep? | Philip K. Dick | libby,scifi
 Emotional Intelligence 2.0 | Travis Bradberry | self,libby
 Grimm's Fairy Tales | Jacob Grimm | owned,kids
 Aesop's Fables | Aesop | owned,kids
-The Last Conversation | Paul Tremblay | owned,scifi
 Ark | Veronica Roth | owned,scifi
 Emergency Skin | N.K. Jemisin | owned,scifi
 Summer Frost | Blake Crouch | owned,scifi
@@ -783,3 +782,6 @@ HJPEV and the Last Enemy | Eliezer Yudkowsky | owned,fanfiction
 HJPEV and the Philosopher's Stone | Eliezer Yudkowsky | owned,fanfiction
 All the Young Dudes | MsKingBean89 | owned,fanfiction
 James Potter And The Hall Of Elders Crossing | George Lippert | owned,fanfiction
+FOUND | Andrew Cull | horror
+The Chaos Machine | Max Fisher | tech,libby
+Getting Things Done | David Allen | self,libby
