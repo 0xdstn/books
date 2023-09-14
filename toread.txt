@@ -754,7 +754,6 @@ Stranger Things: Flight of Icarus | Caitlin Schneiderhan | stranger-things
 Spines | Jamie Killen | horror,owned
 Stoicism and the Art of Happiness | Donald Robertson | owned,philosophy
 The Obstacle Is the Way | Ryan Holiday | philosophy,owned
-Personal Magic | Marion Weinstein | witchcraft,owned
 Everyday Matters | Danny Gregory | art
 In Defense of Witches | Mona Chollet | witchcraft
 Slow Seasons | Rosie Steer | nature,self
@@ -774,7 +773,6 @@ Echoes | Ellen Datlow | ghosts,libby
 Writing Down the Bones | Natalie Goldberg | writing
 Stolen Focus | Johann Hari | self,libby
 The PARA Method | Tiago Forte | self
-Lost Signals | Max Booth III | horror,owned
 HJPEV and the Professor's Games | Eliezer Yudkowsky | owned,fanfiction
 HJPEV and the Shadows of Death | Eliezer Yudkowsky | owned,fanfiction
 HJG and the Phoenix's Call | Eliezer Yudkowsky | owned,fanfiction
@@ -785,3 +783,7 @@ James Potter And The Hall Of Elders Crossing | George Lippert | owned,fanfiction
 FOUND | Andrew Cull | horror
 The Chaos Machine | Max Fisher | tech,libby
 Getting Things Done | David Allen | self,libby
+The Private Lives of Public Birds | Jack Gedney | birds,nature
+Flight Paths | Rebecca Heisman | birds,nature
+Cyberpunk 2077: No Coincidence | Rafal Kosik | cyberpunk
+Cyberpunk 2077: 2AM - She Calls | Tomasz Marchewka | cyberpunk
