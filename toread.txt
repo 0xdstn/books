@@ -141,7 +141,6 @@ The Third Hotel | Laura van den Berg | horror,libby
 Experimental Film | Gemma Files | horror
 Infidel | Pornsak Pichetshote | horror
 Clown in a Cornfield | Adam Cesare | horror
-My Best Friend's Exorcism | Grady Hendrix | horror
 Horrorstör | Grady Hendrix | horror
 We Sold Our Souls | Grady Hendrix | horror,libby
 Daodejing | Laozi | buddhism
@@ -314,7 +313,7 @@ Fragments | Heraclitus | philosophy
 The Art of Happiness | Epicurus | philosophy
 The Unfettered Mind | Takuan Soho | buddhism
 The Adoptive Parents' Handbook | Barbara Cummins Tantrum | parenting,owned
-Raising Good Humans | Hunter Clarke-Fields | parenting
+Raising Good Humans | Hunter Clarke-Fields | parenting,libby
 Girl Decoded | Rana El Kaliouby | tech 
 The Art of Solitude | Stephen Batchelor | self
 2BR02B | Kurt Vonnegut Jr. | horror,owned
@@ -703,7 +702,6 @@ The Atlas of Christmas | Alex Palmer | christmas
 Holidays on Ice | David Sedaris | christmas
 Hogfather | Terry Pratchett | christmas
 Gulliver's Travels | Jonathan Swift | owned,supernatural
-The Quiet Room | Terry Miles | thriller
 The Invisible Library | Genevieve Cogman | libby,dark-academia
 Wanderlust | Rebecca Solnit | knowledge
 Art & Fear | David Bayles | art
@@ -766,12 +764,10 @@ Space Rogue | Cris Thomas | hackers
 The Creative Act: A Way of Being | Rick Rubin | art
 The Dark Place | Britney S. Lewis | horror
 The Melancholy of Mechagirl | Catherynne M Valente | horror
-A Head Full of Ghosts | Paul Tremblay | libby,horror
 The Cabin at the End of the World | Paul Tremblay | libby,horror
 Growing Things | Paul Tremblay | libby,horror
 Echoes | Ellen Datlow | ghosts,libby
 Writing Down the Bones | Natalie Goldberg | writing
-Stolen Focus | Johann Hari | self,libby
 The PARA Method | Tiago Forte | self
 HJPEV and the Professor's Games | Eliezer Yudkowsky | owned,fanfiction
 HJPEV and the Shadows of Death | Eliezer Yudkowsky | owned,fanfiction
@@ -787,3 +783,20 @@ The Private Lives of Public Birds | Jack Gedney | birds,nature
 Flight Paths | Rebecca Heisman | birds,nature
 Cyberpunk 2077: No Coincidence | Rafal Kosik | cyberpunk
 Cyberpunk 2077: 2AM - She Calls | Tomasz Marchewka | cyberpunk
+The Haunting Season | Bridget Collins | ghosts
+The Witch | Ronald Hutton | witches,witchcraft
+Good Inside | Dr. Becky Kennedy | parenting,libby
+Spirit Legacy | E.E. Holmes | ghosts,kindle-unlimited
+A Spell in the Wild | Alice Tarbuck | witchcraft,owned
+The Witch's Herbal Apothecary | Marysia Miernowska | witchcraft,libby
+You Face Belongs To Us | Kashmir Hill | tech
+The Library at Mount Char | Scott Hawkins | fantasy,libby
+Cyberpunk | Katie Hafner and John Markoff | hackers,kindle-unlimited
+The Three Pillars of Zen | Philip Kapleau | buddhism,owned
+Personal Magic | Marion Weinstein | witchcraft,owned
+HJPEV and the Methods of Rationality | Eliezer Yudkowsky | owned,fanfiction
+Lost Signals | Max Booth III | horror,owned
+Stolen Focus | Johann Hari | self,libby
+Schrader's Chord | Scott Leeds | horror,libby
+Your Brain on Art | Susan Magsamen, Ivy Ross | art
+A Head Full of Ghosts | Paul Tremblay | libby,horror
