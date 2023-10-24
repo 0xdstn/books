@@ -799,4 +799,8 @@ Lost Signals | Max Booth III | horror,owned
 Stolen Focus | Johann Hari | self,libby
 Schrader's Chord | Scott Leeds | horror,libby
 Your Brain on Art | Susan Magsamen, Ivy Ross | art
-A Head Full of Ghosts | Paul Tremblay | libby,horror
+Exploring The Moon Through Binoculars | Ernest Cherrington | nature
+Mindfully Green | Stephanie Kaza | buddhism,nature
+Fungi Delight of Curiosity | Harold Johnston Brodie | nature
+In the Company of Mushrooms | Moselio Schaechter | nature
+The Real World of Technology | Ursula M. Franklin | tech,self
