@@ -21,6 +21,7 @@ Around the World in 80 Birds | Mike Unwin | birds,nature
 The First Christmas Tree | Henry Van Dyke | christmas
 The Christmas Stories of Louisa May Alcott | Louisa May Alcott | christmas
 On Christmas Day in the Morning | Grace S. Richmond | christmas,owned
+On Christmas Day in the Evening | Grace S. Richmond | christmas,owned
 Ninth House | Leigh Bardugo | supernatural
 The Haunted Looking Glass | Edward Gorey | ghosts
 Hōjōki | Kamo no Chōmei | japan
@@ -133,7 +134,7 @@ Mastering the Art of Vegetable Gardening | Matt Mattus | gardening,owned
 Complete Container Herb Gardening | Sue Goetz | gardening,owned
 The First-Time Gardener | Sean McManus | gardening,owned
 Coffeeland | Augustine Sedgewick | coffee
-How to Focus | Thich Nhat Hanh | buddhism
+How to Focus | Thich Nhat Hanh | buddhism,owned
 Night Film | Marisha Pessl | horror
 Haunted Nights | Ellen Datlow | horror
 Rules for Vanishing | Kate Alice Marshall | horror
@@ -187,7 +188,7 @@ Hamilton: The Revolution | Lin-Manuel Miranda | owned,knowledge
 Verses from the Center | Nāgārjuna | buddhism
 Attack Surface | Cory Doctorow | hackers
 Busy Doing Nothing | Rekka Bellum | owned,memoir
-How to Relax | Thich Nhat Hanh | buddhism
+How to Relax | Thich Nhat Hanh | buddhism,owned
 How to Connect | Thich Nhat Hanh | buddhism,owned
 Information Doesn't Want to Be Free | Cory Doctorow | tech,owned
 Context | Cory Doctorow | tech,owned
@@ -804,3 +805,10 @@ Mindfully Green | Stephanie Kaza | buddhism,nature
 Fungi Delight of Curiosity | Harold Johnston Brodie | nature
 In the Company of Mushrooms | Moselio Schaechter | nature
 The Real World of Technology | Ursula M. Franklin | tech,self
+Deep Dive | Rae Baker | security,osint
+Henry Thoreau | Robert D. Richardson Jr. | biography
+Emerson | Robert D. Richardson Jr. | biography
+Domain-Driven Design | Eric Evans | development,tech,owned
+The Bible KJV | Unknown | religion,owned
+The Quran | Unknown | religion,owned
+The Satanic Bible | Anton Szandor Lavey | religion,owned
