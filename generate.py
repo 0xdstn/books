@@ -2,7 +2,7 @@
 
 header = '<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /><link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="main.css?4" /><title>Books</title></head><body>'
 header += '<header>'
-header += '<a href="/">0xdstn</a> <a href="/hello">hello</a> <a href="/writing">writing</a>  <a href="/thoughts">thoughts</a> <a href="/books">reading</a> <a href="/dailyart">daily art</a> <a href="/feeds">feeds</a>'
+header += '<a href="/">0xdstn</a> <a href="/hello">hello</a> <a href="/writing">writing</a> <a href="/thoughts">thoughts</a> <a href="/books">reading</a> <a href="/feeds">feeds</a>'
 header += '<h1><a href="index.html">Books</a></h1>'
 header += '</header>'
 header += '<nav>'
