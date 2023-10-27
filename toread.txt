@@ -807,7 +807,6 @@ The Real World of Technology | Ursula M. Franklin | tech,self
 Deep Dive | Rae Baker | security,osint
 Henry Thoreau | Robert D. Richardson Jr. | biography
 Emerson | Robert D. Richardson Jr. | biography
-Domain-Driven Design | Eric Evans | development,tech,owned
 The Bible KJV | Unknown | religion,owned
 The Quran | Unknown | religion,owned
 The Satanic Bible | Anton Szandor Lavey | religion,owned
