@@ -25,7 +25,7 @@ On Christmas Day in the Evening | Grace S. Richmond | christmas,owned
 Ninth House | Leigh Bardugo | supernatural
 The Haunted Looking Glass | Edward Gorey | ghosts
 Hōjōki | Kamo no Chōmei | japan
-Krampusnacht: Twelve Nights of Krampus | Kate Wolford | christmas
+Krampusnacht: Twelve Nights of Krampus | Kate Wolford | christmas,owned
 Hawkins Horrors | Matthew J. Gilbert | horror,owned,stranger-things
 The Legend of the Christmas Witch | Daniel Murphy | christmas
 How to Sell a Haunted House | Grady Hendrix | horror
@@ -385,7 +385,6 @@ Life Among the Savages | Shirley Jackson | parenting
 Wicca Made Easy | Phyllis Curott | witchcraft,owned
 Wishcraft | Sakura Fox | witchcraft,owned
 Witchery | Juliet Diaz | witchcraft,owned
-Year of the Witch | Temperance Alden | witchcraft,owned
 Queering Your Craft | Cassandra Snow | witchcraft,owned
 Plant Witchery | Juliet Diaz | witchcraft,owned
 Italian Folk Magic | Mary-Grace Fahrun | witchcraft,owned
@@ -587,7 +586,7 @@ How to Tell a Story and Other Essays | Mark Twain | writing,owned,essay
 A Scanner Darkly | Philip K. Dick | scifi
 Goodbye Christopher Robin | Ann Thwaite | biography
 The Autobiography of Santa Claus | Jeff Guinn | christmas
-The Krampus and the Old, Dark Christmas | Al Ridenour | christmas
+The Krampus and the Old, Dark Christmas | Al Ridenour | christmas,owned
 Receptor | Alan Glynn | scifi
 Totto-chan | Tetsuko Kuroyanagi | parenting
 Full Frontal Feminism | Jessica Valenti | feminism
@@ -812,3 +811,4 @@ Domain-Driven Design | Eric Evans | development,tech,owned
 The Bible KJV | Unknown | religion,owned
 The Quran | Unknown | religion,owned
 The Satanic Bible | Anton Szandor Lavey | religion,owned
+Freedom Seeker | Beth Kempton | self,owned
