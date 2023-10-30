@@ -811,3 +811,4 @@ The Bible KJV | Unknown | religion,owned
 The Quran | Unknown | religion,owned
 The Satanic Bible | Anton Szandor Lavey | religion,owned
 Freedom Seeker | Beth Kempton | self,owned
+A Head Full of Ghosts | Paul Tremblay | libby,horror
