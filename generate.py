@@ -7,7 +7,7 @@ header += '<h1><a href="index.html">Books</a></h1>'
 header += '</header>'
 header += '<nav>'
 header += '<a href="2023.html">2023</a> | <a href="2022.html">2022</a> | <a href="2021.html">2021</a> | <a href="2020.html">2020</a> | <a href="2019.html">2019</a> | <a href="prior.html">prior</a><br><br>'
-header += '<a href="tags.html">tags</a> | <a href="toread.html">to read</a>'
+header += '<a href="tags.html">tags</a> | <a href="toread.html">to read</a> | <a href="availability.html">availability</a>'
 header += '</nav><section>'
 footer = '</section></body></html>'
 
@@ -187,3 +187,67 @@ tags += footer
 tagsFile = open('tags.html', "w+")
 tagsFile.write(tags)
 tagsFile.close()
+
+availability = header
+
+availability += '<h2>Availability:</h2>'
+
+owned = []
+libby = [] 
+library = []
+kindle = []
+unavailable = []
+
+for b in tor:
+    tags = b[2].strip().split(',')
+
+    tHtml = ''
+    if tags[0] != '':
+        tHtml += ' ('
+        for t in tags:
+            tHtml +=  '<a href="tag-'+t+'.html">'+t+'</a>,' 
+        tHtml = tHtml[:len(tHtml)-1]
+        tHtml += ')'
+    else:
+        tHtml += ' (<a href="tag-untagged.html">untagged</a>)'
+
+    li = '<li><strong>' + b[0] + '</strong> <em>by ' + b[1] + '</em>' + tHtml + '</li>'
+
+    if 'owned' in tags:
+        owned.append(li)
+    elif 'libby' in tags or 'spl' in tags or 'scld' in tags:
+        library.append(li)
+    elif 'kindle-unlimited' in tags:
+        kindle.append(li)
+    else:
+        unavailable.append(li)
+
+availability += '<h2>Owned (' + str(len(owned)) + ')</h2>'
+availability += '<ul>'
+for li in owned:
+    availability += li
+availability += '</ul>'
+
+availability += '<h2>Library (' + str(len(library)) + ')</h2>'
+availability += '<ul>'
+for li in library:
+    availability += li
+availability += '</ul>'
+
+availability += '<h2>Kindle Unlimited (' + str(len(kindle)) + ')</h2>'
+availability += '<ul>'
+for li in kindle:
+    availability += li
+availability += '</ul>'
+
+availability += '<h2>Unavailable (' + str(len(unavailable)) + ')</h2>'
+availability += '<ul>'
+for li in unavailable:
+    availability += li
+availability += '</ul>'
+
+availability += footer
+
+availabilityFile = open('availability.html', "w+")
+availabilityFile.write(availability)
+availabilityFile.close()

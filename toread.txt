@@ -1,5 +1,5 @@
-Before the Coffee Gets Cold: Tales from the Café | Toshikazu Kawaguchi | contemporary
-Before Your Memory Fades | Toshikazu Kawaguchi | contemporary
+Before the Coffee Gets Cold: Tales from the Café | Toshikazu Kawaguchi | contemporary,spl,scld
+Before Your Memory Fades | Toshikazu Kawaguchi | contemporary,spl,scld
 Wild Winter | John D. Burns | nature
 Matilda | Roald Dahl | kids,owned
 Fragrant Palm Leaves | Thich Nhat Hanh | buddhism,owned
@@ -12,26 +12,25 @@ Red Team Blues | Cory Doctorow | hackers,owned
 Coding Democracy | Maureen Webb | hackers
 Flower and Tree Magic | Richard Webster | witchcraft,nature
 Corvus: A Life with Birds | Esther Woolfson | birds,nature
-What It's Like to Be a Bird | David Allen Sibley | birds,nature
+What It's Like to Be a Bird | David Allen Sibley | birds,nature,owned
 The Backyard Birdwatcher's Bible | Paul Sterry | birds,nature
-Gifts of the Crow | John M. Marzluff | birds,nature
-BirdNote | BirdNote | birds,nature
-Bird Families of North America | Pete Dunne | birds,nature
-Around the World in 80 Birds | Mike Unwin | birds,nature
-The First Christmas Tree | Henry Van Dyke | christmas
-The Christmas Stories of Louisa May Alcott | Louisa May Alcott | christmas
+Gifts of the Crow | John M. Marzluff | birds,nature,spl
+BirdNote | BirdNote | birds,nature,spl,scld
+Bird Families of North America | Pete Dunne | birds,nature,owned
+Around the World in 80 Birds | Mike Unwin | birds,nature,spl,scld
+The First Christmas Tree | Henry Van Dyke | christmas,owned
 On Christmas Day in the Morning | Grace S. Richmond | christmas,owned
 On Christmas Day in the Evening | Grace S. Richmond | christmas,owned
-Ninth House | Leigh Bardugo | supernatural
+Ninth House | Leigh Bardugo | supernatural,spl,scld
 The Haunted Looking Glass | Edward Gorey | ghosts
 Hōjōki | Kamo no Chōmei | japan
 Krampusnacht: Twelve Nights of Krampus | Kate Wolford | christmas,owned
 Hawkins Horrors | Matthew J. Gilbert | horror,owned,stranger-things
-The Legend of the Christmas Witch | Daniel Murphy | christmas
-How to Sell a Haunted House | Grady Hendrix | horror
+The Legend of the Christmas Witch | Daniel Murphy | christmas,spl,scld
+How to Sell a Haunted House | Grady Hendrix | horror,spl,scld
 Art of Mindful Gardening | Ark Redwood | gardening,buddhism
 Low Magick | Lon Milo DuQuette | witchcraft
-The Saturday Night Ghost Club | Craig Davidson | ghosts
+The Saturday Night Ghost Club | Craig Davidson | ghosts,spl,scld
 The Way of the Fearless Writer | Beth Kempton | writing,owned
 Love Magic | Lilith Dorsey | witchcraft,owned
 Magic When You Need It | Judika Illes | witchcraft
@@ -59,13 +58,13 @@ Three Ghost Stories | Charles Dickens | ghosts,owned
 The Night Circus | Erin Morgenstern | libby,supernatural
 Drawing Down the Moon | Margot Adler | witchcraft,libby
 The Graveyard Book | Neil Gaiman | libby,ghosts
-How to Tell a Story | Meg Bowles | writing
+How to Tell a Story | Meg Bowles | writing,spl,scld
 Magick in Theory and Practice | Aleister Crowley | witchcraft
 The Dawn of Everything | David Graeber | libby,knowledge
-Thistlefoot | GennaRose Nethercott | supernatural
-The Midnight Club | Christopher Pike | ghosts
+Thistlefoot | GennaRose Nethercott | supernatural,spl,scld
+The Midnight Club | Christopher Pike | ghosts,spl,scld
 A Tea Witch's Grimoire | S.M. Harlow | witchcraft,kindle-unlimited
-Birding Without Borders | Noah Strycker | birds,nature
+Birding Without Borders | Noah Strycker | birds,nature,scld
 Mary Newcomb: Drawing from Observation | Tessa Newcomb | art
 Marcus Aurelius: A Life | Frank McLynn | philosophy
 The Reign Of Antoninus Pius | Ernest Edward Bryant | philosophy
@@ -73,19 +72,19 @@ Breverton's Phantasmagoria | Terry Breverton | horror
 Mary Poppins Comes Back | P.L. Travers | kids,owned
 Adult Children of Emotionally Immature Parents | Lindsay C. Gibson | self,owned
 Wherever You Go, There You Are | Jon Kabat-Zinn | buddhism,libby
-Christmas Days | Jeanette Winterson | christmas
+Christmas Days | Jeanette Winterson | christmas,spl,scld
 Life Is Better When You Draw It | Koosje Koene | art
 Pooh and the Philosophers | John Tyerman Williams | philosophy
-Return to the Hundred Acre Wood | David Benedictus | kids
-The Best Bear in All the World | Paul Bright | kids
+Return to the Hundred Acre Wood | David Benedictus | kids,owned
+The Best Bear in All the World | Paul Bright | kids,owned
 The Year of the Witching | Alexis Henderson | libby,supernatural
-The Witches of New York | Ami McKay | supernatural
+The Witches of New York | Ami McKay | supernatural,spl,scld
 Witches of Lychford | Paul Cornell | supernatural
-Cinders & Sparrows | Stefan Bachmann | supernatural
+Cinders & Sparrows | Stefan Bachmann | supernatural,spl,scld
 Good Omens | Terry Pratchett | libby,supernatural
-Threadneedle | Cari Thomas | supernatural
-The House Witch | Delemhach | kindle-unlimited,supernatural
-The Ruthless Lady's Guide to Wizardry | C.M. Waggoner | supernatural
+Threadneedle | Cari Thomas | supernatural,scld
+The House Witch | Delemhach | kindle-unlimited,supernatural,scld
+The Ruthless Lady's Guide to Wizardry | C.M. Waggoner | supernatural,spl,scld
 The Green Sketching Handbook | Ali Foxon | art,owned
 Haunting Charlie | Wendy Wang | ghosts
 A Year of Mystical Thinking | Emma Howarth | witchcraft,owned
@@ -95,33 +94,33 @@ J. S. Le Fanu's Ghostly Tales, Volume 1 | J. Sheridan Le Fanu | ghosts,owned
 Ghosts and Marvels | V.H. Collins | ghosts
 Witchcraft Today | Gerald B. Gardner | witchcraft
 A Witches' Bible | Janet Farrar | witchcraft
-Buckland's Complete Book of Witchcraft | Raymond Buckland | witchcraft
+Buckland's Complete Book of Witchcraft | Raymond Buckland | witchcraft,spl,scld
 The Ten Thousand Doors of January | Alix E. Harrow | libby,supernatural
 What Witches Do | Stewart Farrar | witchcraft
-The Penguin Book of Witches | Katherine Howe | witchcraft
+The Penguin Book of Witches | Katherine Howe | witchcraft,spl,scld
 The Color of Magic | Terry Pratchett | libby,supernatural
 An Enchantment of Ravens | Margaret Rogerson | libby,supernatural
 Unseelie | Ivelisse Housman | supernatural
 American Gods | Neil Gaiman | libby,thriller
-If We Were Villains | M.L. Rio | dark-academia
+If We Were Villains | M.L. Rio | dark-academia,spl,scld
 Foucault's Pendulum | Umberto Eco | dark-academia
 The Historian | Elizabeth Kostova | libby,dark-academia
 Cloud Atlas | David Mitchell | libby,dark-academia
 The Stoic Path | Epictetus | philosophy
 The Atlas Six | Olivie Blake | libby,dark-academia
 The Secret History | Donna Tartt | libby,dark-academia
-The Mermaid, the Witch, and the Sea | Maggie Tokuda-Hall | supernatural
-The Physick Book of Deliverance Dane | Katherine Howe | supernatural
-Toil & Trouble | Jessica Spotswood | supernatural
-The Bells of Old Tokyo | Anna Sherman | japan
-Mr. Penumbra's 24-Hour Bookstore | Robin Sloan | supernatural
-S. | J.J. Abrams | thriller
+The Mermaid, the Witch, and the Sea | Maggie Tokuda-Hall | supernatural,spl
+The Physick Book of Deliverance Dane | Katherine Howe | supernatural,scld
+Toil & Trouble | Jessica Spotswood | supernatural,scld
+The Bells of Old Tokyo | Anna Sherman | japan,spl
+Mr. Penumbra's 24-Hour Bookstore | Robin Sloan | supernatural,spl,scld
+S. | J.J. Abrams | thriller,scld
 Tuesday Mooney Talks to Ghosts | Kate Racculia | libby,ghosts,supernatural
-Storm Front | Jim Butcher | supernatural,thriller
-In Praise of Shadows | Jun'ichirō Tanizaki | japan,kindle-unlimited
+Storm Front | Jim Butcher | supernatural,thriller,spl,scld
+In Praise of Shadows | Jun'ichirō Tanizaki | japan,kindle-unlimited,spl
 A Book of Tongues | Gemma Files | supernatural,thriller
 How to Stop Losing Your Shit with Your Kids | Carla Naumburg | parenting,owned
-Building a Second Brain | Tiago Forte | self
+Building a Second Brain | Tiago Forte | self,spl,scld
 Grow Your Own Spices | Tasha Greer | gardening,owned
 Sustainable Gardening | Vincent Simeone | gardening,owned
 The Urban Garden | Kathy Jentz | gardening,owned
@@ -133,28 +132,28 @@ Mushroom Cultivation | Tavis Lynch | gardening,owned
 Mastering the Art of Vegetable Gardening | Matt Mattus | gardening,owned
 Complete Container Herb Gardening | Sue Goetz | gardening,owned
 The First-Time Gardener | Sean McManus | gardening,owned
-Coffeeland | Augustine Sedgewick | coffee
+Coffeeland | Augustine Sedgewick | coffee,spl,scld
 How to Focus | Thich Nhat Hanh | buddhism,owned
-Night Film | Marisha Pessl | horror
-Haunted Nights | Ellen Datlow | horror
-Rules for Vanishing | Kate Alice Marshall | horror
+Night Film | Marisha Pessl | horror,spl,scld
+Haunted Nights | Ellen Datlow | horror,spl
+Rules for Vanishing | Kate Alice Marshall | horror,spl,scld
 The Third Hotel | Laura van den Berg | horror,libby
 Experimental Film | Gemma Files | horror
-Infidel | Pornsak Pichetshote | horror
-Clown in a Cornfield | Adam Cesare | horror
-Horrorstör | Grady Hendrix | horror
+Infidel | Pornsak Pichetshote | horror,spl
+Clown in a Cornfield | Adam Cesare | horror,scld
+Horrorstör | Grady Hendrix | horror,spl,scld
 We Sold Our Souls | Grady Hendrix | horror,libby
-Daodejing | Laozi | buddhism
-The Book Eaters | Sunyi Dean | horror
-Burn Down, Rise Up | Vincent Tirado | supernatural
+Daodejing | Laozi | buddhism,spl,scld
+The Book Eaters | Sunyi Dean | horror,spl,scld
+Burn Down, Rise Up | Vincent Tirado | supernatural,spl,scld
 All Systems Red | Martha Wells | libby,thriller
 Upgrade | Blake Crouch | owned,thriller
-Outdoor Kids in an Inside World | Steven Rinella | parenting,nature
+Outdoor Kids in an Inside World | Steven Rinella | parenting,nature,spl,scld
 After Buddhism | Stephen Batchelor | buddhism
-Hollow Kingdom | Kira Jane Buxton | supernatural
-The Labyrinth | Simon Stålenhag | supernatural
-Things from the Flood | Simon Stålenhag | supernatural
-The Electric State | Simon Stålenhag | supernatural
+Hollow Kingdom | Kira Jane Buxton | supernatural,spl,scld
+The Labyrinth | Simon Stålenhag | supernatural,scld
+Things from the Flood | Simon Stålenhag | supernatural,scld
+The Electric State | Simon Stålenhag | supernatural,scld
 Moss: From Forest to Garden | Ulrica Nordström | nature,owned
 Mark Twain's Notebooks | Carlo De Vito | journal
 Keeping a Nature Journal | Clare Walker Leslie | art,nature,owned
@@ -183,10 +182,10 @@ Family of Liars | E. Lockhart | owned,contemporary
 Alistair Grim's Odditorium | Gregory Funaro | owned,supernatural
 Alistair Grim's Odd Aquaticum | Gregory Funaro | owned,supernatural
 The Strange Case of the Alchemist's Daughter | Theodora Goss | owned,supernatural
-Stranger Things: Lucas on the Line | Suyi Davies | stranger-things
+Stranger Things: Lucas on the Line | Suyi Davies | stranger-things,scld
 Hamilton: The Revolution | Lin-Manuel Miranda | owned,knowledge
 Verses from the Center | Nāgārjuna | buddhism
-Attack Surface | Cory Doctorow | hackers
+Attack Surface | Cory Doctorow | hackers,owned
 Busy Doing Nothing | Rekka Bellum | owned,memoir
 How to Relax | Thich Nhat Hanh | buddhism,owned
 How to Connect | Thich Nhat Hanh | buddhism,owned
@@ -195,72 +194,73 @@ Context | Cory Doctorow | tech,owned
 The Complete Works of Edgar Allan Poe | Edgar Allan Poe | horror,owned
 Frankenstein | Mary Shelley | horror,owned
 The Cuckoo's Egg | Clifford Stoll | hackers
-Kingpin | Kevin Poulsen | hackers
+Kingpin | Kevin Poulsen | hackers,spl
 Anger | Thich Nhat Hanh | buddhism,owned
-Hacker, Hoaxer, Whistleblower, Spy | Gabriella Coleman | hackers
-The Dark Net | Jamie Bartlett | hackers
-The Uninhabitable Earth | David Wallace-Wells | nature
+Hacker, Hoaxer, Whistleblower, Spy | Gabriella Coleman | hackers,spl
+The Dark Net | Jamie Bartlett | hackers,spl
+The Uninhabitable Earth | David Wallace-Wells | nature,spl
 The Carp-Faced Boy and Other Tales | Thersa Matsuura | horror
 Future Crimes | Marc Goodman | tech,knowledge
 The Age of Surveillance Capitalism | Shoshana Zuboff | tech,owned
 Secular Buddhism | Noah Rasheta | buddhism
-Don't Be a Jerk | Brad Warner | self
-Beyond the Self | Matthieu Ricard | self
+Don't Be a Jerk | Brad Warner | self,spl,scld
+Beyond the Self | Matthieu Ricard | self,scld
 Buddhism without Beliefs | Stephen Batchelor | buddhism,owned
 Confession of a Buddhist Atheist | Stephen Batchelor | buddhism,owned
 Secular Buddhism | Stephen Batchelor | buddhism
-Indistractable | Nir Eyal | self
+Indistractable | Nir Eyal | self,spl
 The Pocket Pema Chodron | Pema Chödrön | buddhism
 Watch Dogs: The DedSec Revenge | Innovate Media | hackers
 Ego Is the Enemy | Ryan Holiday | philosophy,owned
 Stillness Is the Key | Ryan Holiday | philosophy,owned
 The Book of Ichigo Ichie | Hector Garcia Puigcerver | self
-God in a Cup | Michaele Weissman | coffee
-Letters from a Stoic | Seneca | philosophy
-The Teenage Brain | E. Frances Jensen | parenting
+God in a Cup | Michaele Weissman | coffee,owned
+Letters from a Stoic | Seneca | philosophy,scld
+The Teenage Brain | E. Frances Jensen | parenting,spl,scld
 Thoughts of a Philosophical Fighter Pilot | Jim Stockdale | philosophy
-The Book of Joy | Dalai Lama XIV | buddhism
-Pops | Michael Chabon | parenting
-Tao Te Ching | Lao Tzu | buddhism
-Range | David Epstein | self
-The Diary of a Young Girl | Anne Frank | philosophy
-Plutarch's Lives: Volume I | Plutarch | philosophy
-Plutarch's Lives: Volume II | Plutarch | philosophy
-Blink | Malcolm Gladwell | self
-A Selection from the Discourses of Epictetus with the Encheiridion | Epictetus | philosophy
-Siddhartha | Hermann Hesse | buddhism
-Nonviolent Communication | Marshall B. Rosenberg | self
-Being and Time | Martin Heidegger | self
-The Greatest Empire: A Life of Seneca | Emily Wilson | philosophy
+The Book of Joy | Dalai Lama XIV | buddhism,spl,scld
+Pops | Michael Chabon | parenting,spl
+Tao Te Ching | Lao Tzu | buddhism,owned
+Range | David Epstein | self,spl,scld
+The Diary of a Young Girl | Anne Frank | philosophy,owned
+Plutarch's Lives: Volume 1 | Plutarch | philosophy,owned
+Plutarch's Lives: Volume 2 | Plutarch | philosophy,owned
+Plutarch's Lives: Volume 3 | Plutarch | philosophy,owned
+Plutarch's Lives: Volume 4 | Plutarch | philosophy,owned
+Blink | Malcolm Gladwell | self,spl
+Siddhartha | Hermann Hesse | buddhism,spl,scld
+Nonviolent Communication | Marshall B. Rosenberg | self,spl,scld
+Being and Time | Martin Heidegger | self,spl,scld
+The Greatest Empire: A Life of Seneca | Emily Wilson | philosophy,scld
 How to Be Free | Epictetus | philosophy
 The Moral Sayings of Publius Syrus | Publilius Syrus | philosophy
 On the Tranquility of the Mind | Seneca | philosophy
 Painting as a Pastime | Winston S. Churchill | art
 On the Shortness of Life | Seneca | philosophy
 The Art of Living | Epictetus | philosophy
-Kwaidan | Lafcadio Hearn | horror,japan
+Kwaidan | Lafcadio Hearn | horror,japan,scld
 Zen Koans | Gyomay M. Kubose | buddhism
-Kokoro | Natsume Sōseki | japan
-The Book of Yokai | Michael Dylan Foster | japan
+Kokoro | Natsume Sōseki | japan,spl
+The Book of Yokai | Michael Dylan Foster | japan,scld
 The Tao of Pooh | Benjamin Hoff | philosophy
 How to Be an Inclusive Leader | Jennifer Brown | leadership
 We Are Anonymous | Parmy Olson | hackers,owned
 The Te of Piglet | Benjamin Hoff | philosophy
 A Book of Five Rings | Miyamoto Musashi | japan,philosophy
-The Gift of Failure | Jessica Lahey | parenting
+The Gift of Failure | Jessica Lahey | parenting,spl,scld
 The Essential Epicurus | Epicurus | philosophy
 Letters from a Self-Made Merchant to His Son | George Horace Lorimer | philosophy,owned
 Spam Nation | Brian Krebs | hackers,libby
 Man's Search for Meaning | Viktor E. Frankl | philosophy,libby
 The Sunny Side | A.A. Milne | poetry
 This Machine Kills Secrets | Andy Greenberg | hackers
-Sandworm | Andy Greenberg | hackers
+Sandworm | Andy Greenberg | hackers,spl
 Unmasked | Andy Greenberg | hackers
-The Longing for Less | Kyle Chayka | self
+The Longing for Less | Kyle Chayka | self,spl,scld
 What is Man? | Mark Twain | owned,self
 The Measure of My Days | Florida Scott-Maxwell | philosophy
 One Blade Of Grass | Henry Shukman | buddhism
-Lives of the Stoics | Ryan Holiday | philosophy
+Lives of the Stoics | Ryan Holiday | philosophy,spl,scld
 Recovering from Emotionally Immature Parents | Lindsay C. Gibson | self,owned
 Content | Cory Doctorow | tech,owned
 Civil Disobedience | Henry David Thoreau | owned,knowledge
@@ -273,8 +273,8 @@ How to Live on 24 Hours a Day | Arnold Bennett | self,owned
 Bushido, the Soul of Japan | Inazō Nitobe | japan,owned
 The Haunting of Hill House | Shirley Jackson | horror,owned
 Entangled Life | Merlin Sheldrake | nature,owned
-Parenting Beyond Pink & Blue | Christia Spears Brown | parenting
-Waking Up | Sam Harris | buddhism
+Parenting Beyond Pink & Blue | Christia Spears Brown | parenting,spl
+Waking Up | Sam Harris | buddhism,spl
 Blindspot | Mahzarin R. Banaji | self,libby
 Inclusion | Jennifer Brown | leadership
 A Warning | Anonymous | nature,libby
@@ -303,20 +303,20 @@ Twitter and Tear Gas | Zeynep Tufekci | tech
 Obfuscation | Finn Brunton | tech
 Day Zero: A Watch Dogs: Legion Novel | James Swallow | hackers
 Why Buddhism is True | Robert Wright | buddhism,libby
-A World Without Email | Cal Newport | self
-Rebel Buddha | Dzogchen Ponlop | buddhism
+A World Without Email | Cal Newport | self,spl,scld
+Rebel Buddha | Dzogchen Ponlop | buddhism,spl
 Everyday Suchness | Gyomay M. Kubose | buddhism
 Hacktivist, Volume Two | Jackson Lanzing | hackers
 Leaves of Grass | Walt Whitman | poetry,owned
 No-Drama Discipline | Daniel J. Siegel | parenting,owned
-Gathering Moss | Robin Wall Kimmerer | nature
+Gathering Moss | Robin Wall Kimmerer | nature,scld
 Fragments | Heraclitus | philosophy
 The Art of Happiness | Epicurus | philosophy
 The Unfettered Mind | Takuan Soho | buddhism
 The Adoptive Parents' Handbook | Barbara Cummins Tantrum | parenting,owned
 Raising Good Humans | Hunter Clarke-Fields | parenting,libby
-Girl Decoded | Rana El Kaliouby | tech 
-The Art of Solitude | Stephen Batchelor | self
+Girl Decoded | Rana El Kaliouby | tech,spl,scld
+The Art of Solitude | Stephen Batchelor | self,spl,scld
 2BR02B | Kurt Vonnegut Jr. | horror,owned
 The Religion of the Samurai A Study of Zen Philosophy and Discipline in China and Japan | Kaiten Nukariya | japan,owned
 Roughing It | Mark Twain | nature,owned
@@ -341,31 +341,30 @@ Think Like a Monk | Jay Shetty | self,libby
 The Hidden Life of Trees | Peter Wohlleben | nature,libby
 Four Thousand Weeks | Oliver Burkeman | self,libby
 The Lone Samurai | William Scott Wilson | japan
-The Pillow Book | Sei Shōnagon | japan
-The Narrow Road to the Deep North and Other Travel Sketches | Matsuo Bashō | japan
-Basho: The Complete Haiku | Matsuo Bashō | poetry,japan
+The Pillow Book | Sei Shōnagon | japan,scld
+Basho: The Complete Haiku | Matsuo Bashō | poetry,japan,scld
 Apocolocyntosis | Seneca | philosophy,owned
 Letters on Demonology and Witchcraft | Walter Scott | witchcraft,owned
 The King in Yellow | Robert W. Chambers | horror,owned
 The Turn of the Screw | Henry James | horror,owned
 The Wendigo | Algernon Blackwood | horror,owned
 The Gift of Silence | Kankyo Tannier | self
-Silence: In the Age of Noise | Erling Kagge | self
+Silence: In the Age of Noise | Erling Kagge | self,spl
 In Search of Silence | Poorna Bell | self
-Discipline Is Destiny | Ryan Holiday | philosophy
-Courage Is Calling | Ryan Holiday | philosophy
-Reasons to Stay Alive | Matt Haig | self
-Zen and the Art of Saving the Planet | Thich Nhat Hanh | buddhism,nature
-Notes on a Nervous Planet | Matt Haig | nature
+Discipline Is Destiny | Ryan Holiday | philosophy,spl,scld
+Courage Is Calling | Ryan Holiday | philosophy,spl,scld
+Reasons to Stay Alive | Matt Haig | self,spl
+Zen and the Art of Saving the Planet | Thich Nhat Hanh | buddhism,nature,spl,scld
+Notes on a Nervous Planet | Matt Haig | nature,spl,scld
 We Have Always Lived in the Castle | Shirley Jackson | horror,libby
-Hell House | Richard Matheson | horror
+Hell House | Richard Matheson | horror,spl
 Gratitude | Oliver Sacks | self,libby
 Strange Weather in Tokyo | Hiromi Kawakami | japan
 Sweet Bean Paste | Durian Sukegawa | japan
 Kitchen | Banana Yoshimoto | japan
 We Are In This Together | Beth Kempton | self,owned
 Kokoro | Beth Kempton | japan
-Fear | Thich Nhat Hanh | buddhism
+Fear | Thich Nhat Hanh | buddhism,scld
 The Art of Simple Living | Shunmyō Masuno | buddhism,libby
 Love People, Use Things | Joshua Fields Millburn | self,libby
 The Tangled Web | Michal Zalewski | tech,owned
@@ -378,7 +377,7 @@ The Little Book of Lykke | Meik Wiking | self,libby
 Ghost Stories of an Antiquary | M.R. James | ghosts,owned
 More Ghost Stories of an Antiquary | M.R. James | ghosts,owned
 A Thin Ghost and Others | M.R. James | ghosts,owned
-The Ghost Variations | Kevin Brockmeier | ghosts
+The Ghost Variations | Kevin Brockmeier | ghosts,scld
 Little Stories of Your Life | Laura Pashby | self
 Raising Demons | Shirley Jackson | parenting
 Life Among the Savages | Shirley Jackson | parenting
@@ -426,49 +425,45 @@ Folk-Lore And Legends | Charles John Tibbits | owned,knowledge,supernatural
 Witch, Warlock, and Magician Historical Sketches of Magic and Witchcraft in England and Scotland | William Henry Davenport Adams | witchcraft,owned
 Daemon | Daniel Suarez | hackers,owned
 The Phoenix Project | Gene Kim | tech,owned
-The Art of Peace | Morihei Ueshiba | buddhism
-Letters to a Young Poet | Rainer Maria Rilke | philosophy
+The Art of Peace | Morihei Ueshiba | buddhism,spl,scld
+Letters to a Young Poet | Rainer Maria Rilke | philosophy,spl,scld
 When Things Fall Apart | Pema Chödrön | self,libby
-Winter | Melissa Harrison | poetry
-Autumn | Melissa Harrison | poetry
-Summer | Melissa Harrison | poetry
-Spring | Melissa Harrison | poetry
 The Lottery | Shirley Jackson | horror
-Monk | Yoshihiro Imai | japan
+Monk | Yoshihiro Imai | japan,scld
 Snow Bones | Masaya Saito | japan,poetry
 Poems for a Winter Afternoon | Patrick Meighan | poetry
 Three Zen Masters: Ikkyu, Hakuin, and Ryokan | John Stevens | buddhism
 5-Minute Sketching: Architecture | Liz Steel | art,owned
 Peace Is Every Step | Thich Nhat Hanh | buddhism
-The Miracle of Mindfulness | Thich Nhat Hanh | buddhism
-Living Buddha, Living Christ | Thich Nhat Hanh | buddhism
-The Heart of the Buddha's Teaching | Thich Nhat Hanh | buddhism
+The Miracle of Mindfulness | Thich Nhat Hanh | buddhism,spl,scld
+Living Buddha, Living Christ | Thich Nhat Hanh | buddhism,scld
+The Heart of the Buddha's Teaching | Thich Nhat Hanh | buddhism,spl,scld
 Being Peace | Thich Nhat Hanh | buddhism
 Touching Peace | Thich Nhat Hanh | buddhism
-You Are Here | Thich Nhat Hanh | buddhism
+You Are Here | Thich Nhat Hanh | buddhism,spl
 No Mud, No Lotus | Thich Nhat Hanh | buddhism,owned
 Old Path White Clouds | Thich Nhat Hanh | buddhism
-The Art of Living | Thich Nhat Hanh | buddhism
+The Art of Living | Thich Nhat Hanh | buddhism,spl,scld
 Silence | Thich Nhat Hanh | buddhism
 No Death, No Fear | Thich Nhat Hanh | buddhism
 Taming the Tiger Within | Thich Nhat Hanh | buddhism
-Savor | Thich Nhat Hanh | buddhism
-Peace Is Every Breath | Thich Nhat Hanh | buddhism
+Savor | Thich Nhat Hanh | buddhism,spl,scld
+Peace Is Every Breath | Thich Nhat Hanh | buddhism,spl,scld
 The Art of Power | Thich Nhat Hanh | buddhism
 The Art of Mindful Living | Thich Nhat Hanh | buddhism
 Happiness | Thich Nhat Hanh | buddhism,owned
 Reconciliation | Thich Nhat Hanh | buddhism,owned
 Making Space | Thich Nhat Hanh | buddhism,owned
 The Silence of Six | E.C. Myers | hackers
-Alif the Unseen | G. Willow Wilson | hackers
+Alif the Unseen | G. Willow Wilson | hackers,spl,scld
 Water, Wood, and Wild Things | Hannah Kirshner | japan,libby
-Kill It with Fire | Marianne Bellotti | tech
+Kill It with Fire | Marianne Bellotti | tech,scld
 Moments of Joy | Jina van Hengel | buddhism
 Freedom Wherever We Go | Thich Nhat Hanh | buddhism
 Lost Films | Max Booth III | horror,owned
-How to Be a Leader | Plutarch | philosophy
+How to Be a Leader | Plutarch | philosophy,scld
 How to Die | Seneca | philosophy
-How to Keep Your Cool | Seneca | philosophy
+How to Keep Your Cool | Seneca | philosophy,scld
 How to Grow Old | Marcus Tullius Cicero | philosophy
 Status Anxiety | Alain de Botton | self
 Watch Dogs Legion: Daybreak Legacy | Stewart Hotston | hackers
@@ -477,12 +472,12 @@ Zeroes | Chuck Wendig | hackers
 Underground | Suelette Dreyfus | hackers
 Mirrorshades | Bruce Sterling | hackers
 Moral Panic | K.M. Ecke | hackers
-Wizzywig | Ed Piskor | hackers
+Wizzywig | Ed Piskor | hackers,spl,scld
 Hackers: Heroes of the Computer Revolution | Steven Levy | hackers
 Masters of Deception | Michelle Slatalla | hackers
-Omoiyari | Erin Niimi Longhurst | japan
+Omoiyari | Erin Niimi Longhurst | japan,scld
 1Q84 | Haruki Murakami | japan,libby
-I Am a Cat | Natsume Sōseki | japan
+I Am a Cat | Natsume Sōseki | japan,spl
 The Memory Police | Yōko Ogawa | japan,libby
 The Sailor Who Fell from Grace with the Sea | Yukio Mishima | japan
 Death Note: L, Change the WorLd | M | owned,thriller
@@ -496,7 +491,7 @@ The Complete Short Stories: Volume One 1944-1953 | Roald Dahl | owned,short-stor
 The Dictionary of Obscure Sorrows | John Koenig | owned,knowledge
 Impulse Tracker | Ovi Demetrian Jr. | contemporary
 Dear Ijeawele, or a Feminist Manifesto in Fifteen Suggestions | Chimamanda Ngozi Adichie | libby,feminism
-The Art of War | Sun Tzu | philosophy
+The Art of War | Sun Tzu | philosophy,owned
 Sherlock Holmes | Arthur Conan Doyle | owned,thriller
 Super Mario Bros. 3 | Alyse Knorr | owned,knowledge
 Continue? The Boss Fight Books Anthology | Gabe Durham | owned,knowledge
@@ -520,8 +515,8 @@ EarthBound | Ken Baumann | owned,knowledge
 In the Company of Crows and Ravens | John M. Marzluff | birds,nature
 XX | Rian Hughes | owned,thriller
 Unknown 9: Genesis | Layton Green | owned,thriller
-House of Leaves | Mark Z. Danielewski | horror
-The Novice | Thich Nhat Hanh | buddhism
+House of Leaves | Mark Z. Danielewski | horror,spl,scld
+The Novice | Thich Nhat Hanh | buddhism,spl,scld
 A Boy Called Christmas | Matt Haig | christmas,owned
 Father Christmas and Me | Matt Haig | christmas,owned
 The Girl Who Saved Christmas | Matt Haig | christmas,owned
@@ -530,25 +525,25 @@ The Truth Pixie | Matt Haig | christmas
 The Truth Pixie Goes to School | Matt Haig | christmas
 Round About the Christmas Tree | Becky Brown | christmas
 The Oxford Book of Christmas Stories | Dennis Pepper | christmas
-The Opposite of Butterfly Hunting | Evanna Lynch | memoir
+The Opposite of Butterfly Hunting | Evanna Lynch | memoir,spl,scld
 A Christmas Cornucopia | Mark Forsyth | christmas
 An Unwelcome Quest | Scott Meyer | kindle-unlimited,fantasy
 Christmas: A Biography | Judith Flanders | christmas
 The Christmas Chronicles | Nigel Slater | christmas
-The Haunted Man | Charles Dickens | ghosts
-Some Christmas Stories | Charles Dickens | christmas
-The Battle of Life | Charles Dickens | christmas
-The Cricket on the Hearth | Charles Dickens | christmas
-The Chimes | Charles Dickens | christmas
-The Penguin Book of Christmas Stories | Jessica Harrison | christmas
+The Haunted Man | Charles Dickens | ghosts,owned
+Some Christmas Stories | Charles Dickens | christmas,owned
+The Battle of Life | Charles Dickens | christmas,owned
+The Cricket on the Hearth | Charles Dickens | christmas,owned
+The Chimes | Charles Dickens | christmas,owned
+The Penguin Book of Christmas Stories | Jessica Harrison | christmas,scld
 Mary Poppins and the House Next Door | P.L. Travers | kids
 Mary Poppins in Cherry Tree Lane | P.L. Travers | kids
-Mary Poppins Opens the Door | P.L. Travers | kids
+Mary Poppins Opens the Door | P.L. Travers | kids,owned
 Mary Poppins in the Park | P.L. Travers | kids
 Letters to Santa Claus | The Elves | christmas
 Milky Way Railroad | Kenji Miyazawa | japan,owned
 Conspiracy | Ryan Holiday | owned,knowledge
-A (Very) Short History of Life on Earth | Henry Gee | knowledge
+A (Very) Short History of Life on Earth | Henry Gee | knowledge,spl,scld
 Christmas Ghosts | Kathryn Cramer | christmas,ghosts
 Very Good Lives | J.K. Rowling | libby,memoir
 The Odyssey | Homer | owned,poetry
@@ -562,7 +557,7 @@ The Enchanted Places | Christopher Milne | memoir
 Buddha | Karen Armstrong | buddhism
 Atlas Obscura | Joshua Foer | libby,travel
 Witch Rising | Paige McKenzie | supernatural
-B*WITCH | Paige McKenzie | supernatural
+B*WITCH | Paige McKenzie | supernatural,spl,scld
 How to Stop Time | Matt Haig | contemporary,owned
 Stranger Things: The Bully | Greg Pak | stranger-things
 Stranger Things: Zombie Boys | Greg Pak | stranger-things
@@ -571,10 +566,10 @@ Stranger Things: The Tomb of Ybwen | Greg Pak | stranger-things
 Stranger Things: Kamchatka | Michael Moreci | stranger-things
 Stranger Things Winter Special | Chris Roberson | stranger-things
 Stranger Things Summer Special | Keith Champagne | stranger-things
-The Man Who Mistook His Wife For A Hat | Oliver Sacks | knowledge
+The Man Who Mistook His Wife For A Hat | Oliver Sacks | knowledge,spl,scld
 Center Within | Gyomay M. Kubose | buddhism
 Stranger Things: Rebel Robin | A.R. Capetta | stranger-things
-The Natural World of Winnie-the-Pooh | Kathryn Aalto | nature
+The Natural World of Winnie-the-Pooh | Kathryn Aalto | nature,spl,scld
 The Mysterious Stranger Manuscripts | Mark Twain | owned,supernatural
 May-Day and Other Pieces | Ralph Waldo Emerson | owned,essay
 North of Boston | Robert Frost | owned,essay
@@ -583,32 +578,31 @@ The Poet | Ralph Waldo Emerson | essay,owned
 Essays - First Series | Ralph Waldo Emerson | owned,essay
 The Oxford Book of American Essays | Brander Matthews | owned,essay
 How to Tell a Story and Other Essays | Mark Twain | writing,owned,essay
-A Scanner Darkly | Philip K. Dick | scifi
-Goodbye Christopher Robin | Ann Thwaite | biography
+A Scanner Darkly | Philip K. Dick | scifi,spl,scld
+Goodbye Christopher Robin | Ann Thwaite | biography,scld
 The Autobiography of Santa Claus | Jeff Guinn | christmas
 The Krampus and the Old, Dark Christmas | Al Ridenour | christmas,owned
 Receptor | Alan Glynn | scifi
-Totto-chan | Tetsuko Kuroyanagi | parenting
+Totto-chan | Tetsuko Kuroyanagi | parenting,scld
 Full Frontal Feminism | Jessica Valenti | feminism
-Stranger Things: Runaway Max | Brenna Yovanoff | stranger-things
+Stranger Things: Runaway Max | Brenna Yovanoff | stranger-things,scld
 The Divine Comedy | Dante Alighieri | owned,poetry
 Alice's Adventures in Wonderland | Lewis Carroll | owned,kids
-Gmorning, Gnight! | Lin-Manuel Miranda | memoir
+Gmorning, Gnight! | Lin-Manuel Miranda | memoir,owned
 Nutcracker | E.T.A. Hoffmann | christmas,owned
 The Elves and the Shoemaker | Jim LaMarche | christmas,owned
-Chris Van Allsburg's Polar Express | Robert Kapilow | christmas
-Stranger Things: Suspicious Minds | Gwenda Bond | stranger-things
+Stranger Things: Suspicious Minds | Gwenda Bond | stranger-things,spl,scld
 The History of the Decline and Fall of the Roman Empire Volume I | Edward Gibbon | owned,knowledge
 The Federalist Papers | Alexander Hamilton | owned,knowledge
-Steal This Book | Abbie Hoffman | knowledge
+Steal This Book | Abbie Hoffman | knowledge,spl,scld
 Cut It Out | Banksy | art,owned
 Wall and Piece | Banksy | art,owned
-Uncommon Grounds | Mark Pendergrast | coffee
+Uncommon Grounds | Mark Pendergrast | coffee,spl,scld
 Through the Looking-Glass and What Alice Found There | Lewis Carroll | owned,kids
 How to Ruin Everything | George Watsky | owned,memoir
 Common Sense | Thomas Paine | owned,essay
-Shady Characters | Keith Houston | knowledge
-Stranger Things: Darkness on the Edge of Town | Adam Christopher | stranger-things
+Shady Characters | Keith Houston | knowledge,spl
+Stranger Things: Darkness on the Edge of Town | Adam Christopher | stranger-things,spl,scld
 The Minority Report | Philip K. Dick | scifi
 Miracle on 34th Street | Valentine Davies | christmas
 Do Androids Dream of Electric Sheep? | Philip K. Dick | libby,scifi
@@ -634,7 +628,8 @@ Fight Club 3 | Chuck Palahniuk | thriller
 One Hundred, Ten, and One | O. Westin | short-stories
 Village Christmas | Laurie Lee | christmas,owned
 Moonology | Yasmin Boland | witchcraft
-Legends & Lattes | Travis Baldree | fantasy
+Legends & Lattes | Travis Baldree | fantasy,spl,scld
+Bookshops & Bonedust | Travis Baldree | fantasy,spl,scld
 Detox Your Thoughts | Andrea Bonior, PHD | self,owned
 Intuitive Eating | Evelyn Tribole | self,owned
 Discover Your Dharma | Sahara Rose | self,owned
@@ -696,22 +691,21 @@ Self-Tracking | Gina Neff | owned,knowledge
 Smart Girl's Guide to Privacy | Violet Blue | tech,owned
 The Web Application Hacker's Handbook | Dafydd Stuttard | security,owned
 Astro Noise | Laura Poitras | knowledge,tech
-Echoes of Sherlock Holmes | Laurie R King | thriller
+Echoes of Sherlock Holmes | Laurie R King | thriller,spl,scld
 An Introduction to Electronic Warfare | Chi-Hao Cheng | owned,knowledge,tech
-The Atlas of Christmas | Alex Palmer | christmas
-Holidays on Ice | David Sedaris | christmas
-Hogfather | Terry Pratchett | christmas
+The Atlas of Christmas | Alex Palmer | christmas,scld
+Holidays on Ice | David Sedaris | christmas,scld
+Hogfather | Terry Pratchett | christmas,spl,scld
 Gulliver's Travels | Jonathan Swift | owned,supernatural
 The Invisible Library | Genevieve Cogman | libby,dark-academia
-Wanderlust | Rebecca Solnit | knowledge
+Wanderlust | Rebecca Solnit | knowledge,scld
 Art & Fear | David Bayles | art
 Breath | James Nestor | self,libby
 Kiki's Delivery Service | Eiko Kadona | supernatural
-The Melancholy of Haruhi Suzumiya | Nagaru Tanigawa | supernatural
 Battle Royale | Koushun Takami | thriller
 Stolen Tongues | Felix Balckwell | horror
 The October Country | Ray Bradbury | horror
-The Weird | Ann and Jeff VanderMeer | horror
+The Weird | Ann and Jeff VanderMeer | horror,spl
 At Home in the World | Thich Nhat Hanh | buddhism,owned
 An Introduction to Information Theory: Symbols, Signals, and Noise | John R. Pierce | knowledge,tech
 UNO, DOS, CUATRO | Havana Moon | knowledge,tech
@@ -719,11 +713,11 @@ Buzzers | Maurice Rosaler | thriller
 How to Tune the Secret Shortwave Spectrum | Harry L Helms | knowledge,tech
 Order of Cosmic Champions | Anthony Rapino & Anthony Grate | fantasy
 The Viking Spirit | Daniel McCoy | mythology,norse
-The Poetic Edda | Jackson Crawford | mythology,norse
+The Poetic Edda | Jackson Crawford | mythology,norse,spl
 The Prose Edda | Snorri Sturluson | mythology,norse,owned
 Norse Mythology | Neil Gaiman | mythology,norse,libby
 Data and Goliath | Bruce Schneier | security,libby
-A Hacker's Mind | Bruce Schneier | security
+A Hacker's Mind | Bruce Schneier | security,spl,scld
 The Book of Delights | Ross Gay | libby,essays
 Breaking Things at Work | Gavin Mueller | tech,knowledge
 Stepping into Freedom | Thich Nhat Hanh | buddhism,owned
@@ -734,26 +728,26 @@ Girls to the Front | Sara Marcus | feminism,knowledge
 Coding Freedom | Gabriella Coleman | hackers
 Found Audio | NJ Campbell | horror
 Last Days | Adam Neville | horror
-N | Stephen King | horror
-Video Palace | Dr Maynard Wills | horror
+N | Stephen King | horror,spl,scld
+Video Palace | Dr Maynard Wills | horror,owned
 Where the Gods Sleep | Mike Duke | kindle-unlimited,horror
 Scanlines | Tod Keisling | horror
-The Lost Village | Camilla Sten | horror
+The Lost Village | Camilla Sten | horror,spl,scld
 14 | Peter Clines | horror
 A Quiet Mind | Shoukei Matsumoto | owned,buddhism
 Goosebumps #6 Let's Get Invisible! | R.L. Stine | owned
-Joyful Militancy | Nick Montgomery, Carla Bergman | self
+Joyful Militancy | Nick Montgomery, Carla Bergman | self,scld
 The Magical Writing Grimoire | Lisa Marie Basile | witchcraft,writing
-Daily Rituals | Mason Currey | art
+Daily Rituals | Mason Currey | art,spl,scld
 Railway Ghosts and Highway Horrors | Daniel Cohen | ghosts
 IDENTIFIED | John Wilander | hackers
-Stranger Things: Heroes and Monsters | Rana Tahir | stranger-things
-Stranger Things: Flight of Icarus | Caitlin Schneiderhan | stranger-things
+Stranger Things: Heroes and Monsters | Rana Tahir | stranger-things,scld
+Stranger Things: Flight of Icarus | Caitlin Schneiderhan | stranger-things,spl
 Spines | Jamie Killen | horror,owned
 Stoicism and the Art of Happiness | Donald Robertson | owned,philosophy
 The Obstacle Is the Way | Ryan Holiday | philosophy,owned
 Everyday Matters | Danny Gregory | art
-In Defense of Witches | Mona Chollet | witchcraft
+In Defense of Witches | Mona Chollet | witchcraft,spl,scld
 Slow Seasons | Rosie Steer | nature,self
 Radically Content | Jamie Varon | self
 Artists Sketchbook | Cathy Johnson | art
@@ -761,13 +755,13 @@ The Art of the Travel Journal | Abbey Sy | art
 D&D Dungeon Academy No Humans Allowed | Madeleine Roux | fantasy,libby
 The Hacker Mindset | Garrett Gee | hackers
 Space Rogue | Cris Thomas | hackers
-The Creative Act: A Way of Being | Rick Rubin | art
-The Dark Place | Britney S. Lewis | horror
+The Creative Act: A Way of Being | Rick Rubin | art,spl,scld
+The Dark Place | Britney S. Lewis | horror,scld
 The Melancholy of Mechagirl | Catherynne M Valente | horror
 The Cabin at the End of the World | Paul Tremblay | libby,horror
 Growing Things | Paul Tremblay | libby,horror
 Echoes | Ellen Datlow | ghosts,libby
-Writing Down the Bones | Natalie Goldberg | writing
+Writing Down the Bones | Natalie Goldberg | writing,spl,scld
 The PARA Method | Tiago Forte | self
 HJPEV and the Professor's Games | Eliezer Yudkowsky | owned,fanfiction
 HJPEV and the Shadows of Death | Eliezer Yudkowsky | owned,fanfiction
@@ -779,17 +773,17 @@ James Potter And The Hall Of Elders Crossing | George Lippert | owned,fanfiction
 FOUND | Andrew Cull | horror
 The Chaos Machine | Max Fisher | tech,libby
 Getting Things Done | David Allen | self,libby
-The Private Lives of Public Birds | Jack Gedney | birds,nature
-Flight Paths | Rebecca Heisman | birds,nature
-Cyberpunk 2077: No Coincidence | Rafal Kosik | cyberpunk
+The Private Lives of Public Birds | Jack Gedney | birds,nature,spl
+Flight Paths | Rebecca Heisman | birds,nature,spl,scld
+Cyberpunk 2077: No Coincidence | Rafal Kosik | cyberpunk,spl
 Cyberpunk 2077: 2AM - She Calls | Tomasz Marchewka | cyberpunk
-The Haunting Season | Bridget Collins | ghosts
-The Witch | Ronald Hutton | witches,witchcraft
+The Haunting Season | Bridget Collins | ghosts,spl,scld
+The Witch | Ronald Hutton | witches,witchcraft,spl,scld
 Good Inside | Dr. Becky Kennedy | parenting,libby
-Spirit Legacy | E.E. Holmes | ghosts,kindle-unlimited
+Spirit Legacy | E.E. Holmes | ghosts,kindle-unlimited,scld
 A Spell in the Wild | Alice Tarbuck | witchcraft,owned
 The Witch's Herbal Apothecary | Marysia Miernowska | witchcraft,libby
-You Face Belongs To Us | Kashmir Hill | tech
+You Face Belongs To Us | Kashmir Hill | tech,spl
 The Library at Mount Char | Scott Hawkins | fantasy,libby
 Cyberpunk | Katie Hafner and John Markoff | hackers,kindle-unlimited
 The Three Pillars of Zen | Philip Kapleau | buddhism,owned
@@ -798,7 +792,7 @@ HJPEV and the Methods of Rationality | Eliezer Yudkowsky | owned,fanfiction
 Lost Signals | Max Booth III | horror,owned
 Stolen Focus | Johann Hari | self,libby
 Schrader's Chord | Scott Leeds | horror,libby
-Your Brain on Art | Susan Magsamen, Ivy Ross | art
+Your Brain on Art | Susan Magsamen, Ivy Ross | art,spl,scld
 Exploring The Moon Through Binoculars | Ernest Cherrington | nature
 Mindfully Green | Stephanie Kaza | buddhism,nature
 Fungi Delight of Curiosity | Harold Johnston Brodie | nature
@@ -811,4 +805,4 @@ The Bible KJV | Unknown | religion,owned
 The Quran | Unknown | religion,owned
 The Satanic Bible | Anton Szandor Lavey | religion,owned
 Freedom Seeker | Beth Kempton | self,owned
-A Head Full of Ghosts | Paul Tremblay | libby,horror
+City Witchery | Lisa Marie Basile | witchcraft,scld
