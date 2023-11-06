@@ -559,13 +559,6 @@ Atlas Obscura | Joshua Foer | libby,travel
 Witch Rising | Paige McKenzie | supernatural
 B*WITCH | Paige McKenzie | supernatural,spl,scld
 How to Stop Time | Matt Haig | contemporary,owned
-Stranger Things: The Bully | Greg Pak | stranger-things
-Stranger Things: Zombie Boys | Greg Pak | stranger-things
-Stranger Things: Erica the Great | Danny Lore | stranger-things
-Stranger Things: The Tomb of Ybwen | Greg Pak | stranger-things
-Stranger Things: Kamchatka | Michael Moreci | stranger-things
-Stranger Things Winter Special | Chris Roberson | stranger-things
-Stranger Things Summer Special | Keith Champagne | stranger-things
 The Man Who Mistook His Wife For A Hat | Oliver Sacks | knowledge,spl,scld
 Center Within | Gyomay M. Kubose | buddhism
 Stranger Things: Rebel Robin | A.R. Capetta | stranger-things
@@ -806,3 +799,5 @@ The Quran | Unknown | religion,owned
 The Satanic Bible | Anton Szandor Lavey | religion,owned
 Freedom Seeker | Beth Kempton | self,owned
 City Witchery | Lisa Marie Basile | witchcraft,scld
+Winter Celebrations | Arounna Khounnoraj | christmas,scld
+Christmas and Other Horrors | Ellen Datlow | christmas,horror,spl,scld
