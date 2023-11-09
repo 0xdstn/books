@@ -801,3 +801,7 @@ Freedom Seeker | Beth Kempton | self,owned
 City Witchery | Lisa Marie Basile | witchcraft,scld
 Winter Celebrations | Arounna Khounnoraj | christmas,scld
 Christmas and Other Horrors | Ellen Datlow | christmas,horror,spl,scld
+Stranger Things: The Bully | Greg Pak | stranger-things
+Stranger Things: Zombie Boys | Greg Pak | stranger-things
+Stranger Things: Erica the Great | Danny Lore | stranger-things
+Deep Work | Cal Newport | self,work,libby
