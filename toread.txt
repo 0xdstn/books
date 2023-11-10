@@ -221,7 +221,7 @@ Thoughts of a Philosophical Fighter Pilot | Jim Stockdale | philosophy
 The Book of Joy | Dalai Lama XIV | buddhism,spl,scld
 Pops | Michael Chabon | parenting,spl
 Tao Te Ching | Lao Tzu | buddhism,owned
-Range | David Epstein | self,spl,scld
+Range | David Epstein | self,libby,spl,scld
 The Diary of a Young Girl | Anne Frank | philosophy,owned
 Plutarch's Lives: Volume 1 | Plutarch | philosophy,owned
 Plutarch's Lives: Volume 2 | Plutarch | philosophy,owned
