@@ -1,4 +1,3 @@
-Before the Coffee Gets Cold: Tales from the Café | Toshikazu Kawaguchi | contemporary,spl,scld
 Before Your Memory Fades | Toshikazu Kawaguchi | contemporary,spl,scld
 Wild Winter | John D. Burns | nature
 Matilda | Roald Dahl | kids,owned
@@ -808,3 +807,8 @@ Deep Work | Cal Newport | self,work,libby
 Learning True Love | Sister Chan Khong | buddhism,owned
 Peace Begins Here | Thich Nhat Hanh | buddhism,owned
 True Peace Work | Thich Nhat Hanh | buddhism,owned
+Stranger Things: Kamchatka | Michael Moreci | stranger-things
+So Good They Can't Ignore You | Cal Newport | self,work,libby
+The Quiet Room | Terry Miles | thriller,owned
+Radiant Rest | Tracee Stanley-Newell | health,scld
+Year of the Witch | Temperance Alden | witchcraft,owned

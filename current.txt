@@ -1,5 +1,3 @@
-Year of the Witch | Temperance Alden | witchcraft,owned
 Domain-Driven Design | Eric Evans | development,tech,owned
-The Quiet Room | Terry Miles | thriller,owned
-Stranger Things: Kamchatka | Michael Moreci | stranger-things
-So Good They Can't Ignore You | Cal Newport | self,work,libby
+Before the Coffee Gets Cold: Tales from the Café | Toshikazu Kawaguchi | contemporary,spl,scld
+The Signature of All Things | Elizabeth Gilbert | nature,libby
