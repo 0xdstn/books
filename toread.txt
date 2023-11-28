@@ -810,3 +810,33 @@ So Good They Can't Ignore You | Cal Newport | self,work,libby
 The Quiet Room | Terry Miles | thriller,owned
 Radiant Rest | Tracee Stanley-Newell | health,scld
 Year of the Witch | Temperance Alden | witchcraft,owned
+Before the Coffee Gets Cold: Tales from the Café | Toshikazu Kawaguchi | contemporary,spl,scld
+Black Hat GraphQL | Nick Aleks | security,owned
+Bug Bounty Bootcamp | Vickie Li | security,owned
+Designing Secure Software | Loren Kohnfelder | security,development,owned
+Hacking APIs | Corey J. Ball | security,owned
+Learning True Love | Sister Chan Khong | buddhism,owned
+Peace Begins Here | Thich Nhat Hanh | buddhism,owned
+True Peace Work | Parallax Press | buddhism,owned
+Wiktopher | Rek Bell | fantasy,owned
+Drawing Comics Lab | Robyn Chapman | art,owned
+100 Things Every Artist Should | Various Artists | art,owned
+Fearless Drawing | Kerry Lemon | art,owned
+Draw Like an Artist | Chris Legaspi | art,owned
+The Urban Sketching Handbook: Working with Color | Shari Blaukopf | art,owned
+Draw Every Little Thing | Flora Waycott | art,owned
+The Complete Urban Sketching Companion | Gabriel Campanario | art,owned
+One Drawing a Day | Veronica Lawlor | art,owned
+The Urban Sketching Handbook: Understanding Perspective | Stephanie Bower | art,owned
+Creative Revolution | Flora Bowley | art,owned
+If You Can Doodle, You Can Pain | Diane Culhane | art,owned
+Drawing for Joy | Stephanie Peterson Jones | art,owned
+Art Starts with a Line | Erin McManness | art,owned
+The Urban Sketching Handbook: 101 Sketching Tips | Stephanie Bower | art,owned
+Beginning Drawing | Alain Picard | art,owned
+The Joy of Lettering | Gabri Kirkendall | art,owned
+How to Draw & Paint: Faces & Features | Debra Kauffman Yaun | art,owned
+Drawing the Head for Artists | Oliver Sin | art,owned
+Drawing School: Fundamentals for the Beginner | Jim Dowdallsd | art,owned
+The Complete Beginner's Guide to Drawing | Walter Foster Publishing | art,owned
+The Complete Photo Guide to Hand Lettering and Calligraphy | Abbey Sy | art,owned

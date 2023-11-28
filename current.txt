@@ -1,3 +1,2 @@
-Domain-Driven Design | Eric Evans | development,tech,owned
-Before the Coffee Gets Cold: Tales from the Café | Toshikazu Kawaguchi | contemporary,spl,scld
+Domain-Driven Design | Eric Evans | development,owned
 Beginning Anew | Chan Khong | buddhism,owned
