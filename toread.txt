@@ -5,7 +5,6 @@ Fragrant Palm Leaves | Thich Nhat Hanh | buddhism,owned
 Call Me by My True Names | Thich Nhat Hanh | buddhism,poetry,owned
 Watch Dogs: Stars & Stripes | Sean Grigsby | hackers
 One Robe, One Bowl | Ryōkan | buddhism,poetry
-Beginning Anew | Chan Khong | buddhism,owned
 Krampus: The Devil of Christmas | Monte Beauchamp | christmas
 Red Team Blues | Cory Doctorow | hackers,owned
 Coding Democracy | Maureen Webb | hackers
@@ -75,7 +74,6 @@ Christmas Days | Jeanette Winterson | christmas,spl,scld
 Life Is Better When You Draw It | Koosje Koene | art
 Pooh and the Philosophers | John Tyerman Williams | philosophy
 Return to the Hundred Acre Wood | David Benedictus | kids,owned
-The Best Bear in All the World | Paul Bright | kids,owned
 The Year of the Witching | Alexis Henderson | libby,supernatural
 The Witches of New York | Ami McKay | supernatural,spl,scld
 Witches of Lychford | Paul Cornell | supernatural
