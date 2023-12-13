@@ -113,7 +113,6 @@ The Bells of Old Tokyo | Anna Sherman | japan,spl
 Mr. Penumbra's 24-Hour Bookstore | Robin Sloan | supernatural,spl,scld
 S. | J.J. Abrams | thriller,scld
 Tuesday Mooney Talks to Ghosts | Kate Racculia | libby,ghosts,supernatural
-Storm Front | Jim Butcher | supernatural,thriller,spl,scld
 In Praise of Shadows | Jun'ichirō Tanizaki | japan,kindle-unlimited,spl
 A Book of Tongues | Gemma Files | supernatural,thriller
 How to Stop Losing Your Shit with Your Kids | Carla Naumburg | parenting,owned
@@ -174,7 +173,6 @@ The Little Book of Scandi Living | Brontë Aurell | self,owned
 Atlas of Improbable Places | Travis Elborough | travel,owned
 Atlas of Forgotten Places | Travis Elborough | travel,owned
 How to Live Korean | Soo Kim | self,owned
-The Christmas Box | Richard Paul Evans | christmas,owned
 Family of Liars | E. Lockhart | owned,contemporary
 Alistair Grim's Odditorium | Gregory Funaro | owned,supernatural
 Alistair Grim's Odd Aquaticum | Gregory Funaro | owned,supernatural
@@ -514,7 +512,6 @@ XX | Rian Hughes | owned,thriller
 Unknown 9: Genesis | Layton Green | owned,thriller
 House of Leaves | Mark Z. Danielewski | horror,spl,scld
 The Novice | Thich Nhat Hanh | buddhism,spl,scld
-A Boy Called Christmas | Matt Haig | christmas,owned
 Father Christmas and Me | Matt Haig | christmas,owned
 The Girl Who Saved Christmas | Matt Haig | christmas,owned
 A Mouse Called Miika | Matt Haig | christmas
