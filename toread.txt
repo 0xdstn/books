@@ -794,7 +794,6 @@ The Satanic Bible | Anton Szandor Lavey | religion,owned
 Freedom Seeker | Beth Kempton | self,owned
 City Witchery | Lisa Marie Basile | witchcraft,scld
 Winter Celebrations | Arounna Khounnoraj | christmas,scld
-Christmas and Other Horrors | Ellen Datlow | christmas,horror,spl,scld
 Stranger Things: The Bully | Greg Pak | stranger-things
 Stranger Things: Zombie Boys | Greg Pak | stranger-things
 Stranger Things: Erica the Great | Danny Lore | stranger-things
@@ -837,3 +836,5 @@ Drawing the Head for Artists | Oliver Sin | art,owned
 Drawing School: Fundamentals for the Beginner | Jim Dowdallsd | art,owned
 The Complete Beginner's Guide to Drawing | Walter Foster Publishing | art,owned
 The Complete Photo Guide to Hand Lettering and Calligraphy | Abbey Sy | art,owned
+Domain-Driven Design | Eric Evans | development,owned
+Beginning Anew | Chan Khong | buddhism,owned

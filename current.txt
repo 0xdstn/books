@@ -1,5 +1,4 @@
-Domain-Driven Design | Eric Evans | development,owned
-Beginning Anew | Chan Khong | buddhism,owned
 Storm Front | Jim Butcher | supernatural,thriller,spl,scld
 A Boy Called Christmas | Matt Haig | christmas,owned
 The Christmas Box | Richard Paul Evans | christmas,owned
+Christmas and Other Horrors | Ellen Datlow | christmas,horror,spl,scld
