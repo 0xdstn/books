@@ -35,7 +35,6 @@ Magic When You Need It | Judika Illes | witchcraft
 Alchemy of Herbs | Rosalee de la Foret | witchcraft,owned
 The Witch's Spellbook | Sarah Bartlett | witchcraft,owned
 The Sacred Alignments and Dark Side of Sigils | Robert Podgurski | witchcraft,owned
-Moon Bath | Dakota Hills | witchcraft,owned
 Hoodoo for Everyone | Sherry Shone | witchcraft,owned
 The Ultimate Guide to Witchcraft | Anjou Kiernan | witchcraft,owned
 The Path of the Witch | Lidia Pradas | witchcraft,owned
@@ -764,7 +763,6 @@ The Private Lives of Public Birds | Jack Gedney | birds,nature,spl
 Flight Paths | Rebecca Heisman | birds,nature,spl,scld
 Cyberpunk 2077: No Coincidence | Rafal Kosik | cyberpunk,spl
 Cyberpunk 2077: 2AM - She Calls | Tomasz Marchewka | cyberpunk
-The Haunting Season | Bridget Collins | ghosts,spl,scld
 The Witch | Ronald Hutton | witches,witchcraft,spl,scld
 Good Inside | Dr. Becky Kennedy | parenting,libby
 Spirit Legacy | E.E. Holmes | ghosts,kindle-unlimited,scld
@@ -837,4 +835,8 @@ Drawing School: Fundamentals for the Beginner | Jim Dowdallsd | art,owned
 The Complete Beginner's Guide to Drawing | Walter Foster Publishing | art,owned
 The Complete Photo Guide to Hand Lettering and Calligraphy | Abbey Sy | art,owned
 Domain-Driven Design | Eric Evans | development,owned
+A Boy Called Christmas | Matt Haig | christmas,owned
+The Christmas Box | Richard Paul Evans | christmas,owned
+Christmas and Other Horrors | Ellen Datlow | christmas,horror,spl,scld
+Storm Front | Jim Butcher | supernatural,thriller,spl,scld
 Beginning Anew | Chan Khong | buddhism,owned
