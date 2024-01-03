@@ -613,7 +613,6 @@ Micro Science Fiction | O. Westin | scifi
 Fight Club 3 | Chuck Palahniuk | thriller
 One Hundred, Ten, and One | O. Westin | short-stories
 Village Christmas | Laurie Lee | christmas,owned
-Moonology | Yasmin Boland | witchcraft
 Legends & Lattes | Travis Baldree | fantasy,spl,scld
 Bookshops & Bonedust | Travis Baldree | fantasy,spl,scld
 Detox Your Thoughts | Andrea Bonior, PHD | self,owned
@@ -840,3 +839,6 @@ The Christmas Box | Richard Paul Evans | christmas,owned
 Christmas and Other Horrors | Ellen Datlow | christmas,horror,spl,scld
 Storm Front | Jim Butcher | supernatural,thriller,spl,scld
 Beginning Anew | Chan Khong | buddhism,owned
+Little Book of Contentment | Leo Babauta | self,owned
+The One Skill | Leo Babauta | self,owned
+Moon Bath | Dakota Hills | witchcraft,owned
