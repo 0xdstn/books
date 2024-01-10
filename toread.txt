@@ -757,7 +757,6 @@ All the Young Dudes | MsKingBean89 | owned,fanfiction
 James Potter And The Hall Of Elders Crossing | George Lippert | owned,fanfiction
 FOUND | Andrew Cull | horror
 The Chaos Machine | Max Fisher | tech,libby
-Getting Things Done | David Allen | self,libby
 The Private Lives of Public Birds | Jack Gedney | birds,nature,spl
 Flight Paths | Rebecca Heisman | birds,nature,spl,scld
 Cyberpunk 2077: No Coincidence | Rafal Kosik | cyberpunk,spl
@@ -777,7 +776,6 @@ Lost Signals | Max Booth III | horror,owned
 Stolen Focus | Johann Hari | self,libby
 Schrader's Chord | Scott Leeds | horror,libby
 Your Brain on Art | Susan Magsamen, Ivy Ross | art,spl,scld
-Exploring The Moon Through Binoculars | Ernest Cherrington | nature
 Mindfully Green | Stephanie Kaza | buddhism,nature
 Fungi Delight of Curiosity | Harold Johnston Brodie | nature
 In the Company of Mushrooms | Moselio Schaechter | nature
@@ -842,3 +840,5 @@ Beginning Anew | Chan Khong | buddhism,owned
 Little Book of Contentment | Leo Babauta | self,owned
 The One Skill | Leo Babauta | self,owned
 Moon Bath | Dakota Hills | witchcraft,owned
+The Haunting Season | Bridget Collins | ghosts,spl,scld
+Exploring The Moon Through Binoculars | Ernest Cherrington | nature
