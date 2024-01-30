@@ -840,8 +840,10 @@ Beginning Anew | Chan Khong | buddhism,owned
 Little Book of Contentment | Leo Babauta | self,owned
 The One Skill | Leo Babauta | self,owned
 Moon Bath | Dakota Hills | witchcraft,owned
-The Haunting Season | Bridget Collins | ghosts,spl,scld
 Exploring The Moon Through Binoculars | Ernest Cherrington | nature
 The Lunation Cycle | Dane Rudhyar | witchcraft
 The Perfect Thing | Steven Levy | knowledge,tech
 Getting Things Done | David Allen | self,libby
+Please Unsubscribe, Thanks! | Julio Vincent Gambuto | self,scld,spl
+What You Are Looking For Is in the Library | Michiko Aoyama | japan,contemporary,libby
+Mara Turing. Rise of the Hakcers | Javi Padilla | hackers,kindle-unlimited
