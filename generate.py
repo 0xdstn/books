@@ -2,11 +2,11 @@
 
 header = '<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /><link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="main.css?4" /><title>Books</title></head><body>'
 header += '<header>'
-header += '<a href="/">0xdstn</a> <a href="/hello">hello</a> <a href="/projects">projects</a> <a href="/books">reading</a> <a href="/art">art</a> <a href="/feeds">feeds</a>'
+header += '<a href="/">0xdstn</a> <a href="/hello">hello</a> <a href="/projects">projects</a> <a href="/wiki">wiki</a> <a href="/books">reading</a> <a href="/art">art</a> <a href="/feeds">feeds</a>'
 header += '<h1><a href="index.html">Books</a></h1>'
 header += '</header>'
 header += '<nav>'
-header += '<a href="2023.html">2023</a> | <a href="2022.html">2022</a> | <a href="2021.html">2021</a> | <a href="2020.html">2020</a> | <a href="2019.html">2019</a> | <a href="prior.html">prior</a><br><br>'
+header += '<a href="2024.html">2024</a> | <a href="2023.html">2023</a> | <a href="2022.html">2022</a> | <a href="2021.html">2021</a> | <a href="2020.html">2020</a> | <a href="2019.html">2019</a> | <a href="prior.html">prior</a><br><br>'
 header += '<a href="tags.html">tags</a> | <a href="toread.html">to read</a> | <a href="availability.html">availability</a>'
 header += '</nav><section>'
 footer = '</section></body></html>'
@@ -35,7 +35,7 @@ indexFile = open('index.html', "w+")
 indexFile.write(index)
 indexFile.close()
 
-for yr in ["2023","2022","2021","2020","2019","prior"]:
+for yr in ["2024","2023","2022","2021","2020","2019","prior"]:
     year = header
 
     with open('read-'+yr+'.txt') as f:

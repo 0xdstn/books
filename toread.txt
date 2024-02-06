@@ -343,7 +343,6 @@ The King in Yellow | Robert W. Chambers | horror,owned
 The Turn of the Screw | Henry James | horror,owned
 The Wendigo | Algernon Blackwood | horror,owned
 The Gift of Silence | Kankyo Tannier | self
-Silence: In the Age of Noise | Erling Kagge | self,spl
 In Search of Silence | Poorna Bell | self
 Discipline Is Destiny | Ryan Holiday | philosophy,spl,scld
 Courage Is Calling | Ryan Holiday | philosophy,spl,scld
@@ -740,7 +739,6 @@ The Art of the Travel Journal | Abbey Sy | art
 D&D Dungeon Academy No Humans Allowed | Madeleine Roux | fantasy,libby
 The Hacker Mindset | Garrett Gee | hackers
 Space Rogue | Cris Thomas | hackers
-The Creative Act: A Way of Being | Rick Rubin | art,spl,scld
 The Dark Place | Britney S. Lewis | horror,scld
 The Melancholy of Mechagirl | Catherynne M Valente | horror
 The Cabin at the End of the World | Paul Tremblay | libby,horror
@@ -798,7 +796,6 @@ Peace Begins Here | Thich Nhat Hanh | buddhism,owned
 True Peace Work | Thich Nhat Hanh | buddhism,owned
 Stranger Things: Kamchatka | Michael Moreci | stranger-things
 So Good They Can't Ignore You | Cal Newport | self,work,libby
-The Quiet Room | Terry Miles | thriller,owned
 Radiant Rest | Tracee Stanley-Newell | health,scld
 Year of the Witch | Temperance Alden | witchcraft,owned
 Before the Coffee Gets Cold: Tales from the Café | Toshikazu Kawaguchi | contemporary,spl,scld
@@ -840,8 +837,11 @@ Beginning Anew | Chan Khong | buddhism,owned
 Little Book of Contentment | Leo Babauta | self,owned
 The One Skill | Leo Babauta | self,owned
 Moon Bath | Dakota Hills | witchcraft,owned
-The Haunting Season | Bridget Collins | ghosts,spl,scld
 Exploring The Moon Through Binoculars | Ernest Cherrington | nature
 The Lunation Cycle | Dane Rudhyar | witchcraft
 The Perfect Thing | Steven Levy | knowledge,tech
 Getting Things Done | David Allen | self,libby
+Please Unsubscribe, Thanks! | Julio Vincent Gambuto | self,scld,spl
+What You Are Looking For Is in the Library | Michiko Aoyama | japan,contemporary,libby
+Mara Turing. Rise of the Hakcers | Javi Padilla | hackers,kindle-unlimited
+The Haunting Season | Bridget Collins | ghosts,spl,scld
