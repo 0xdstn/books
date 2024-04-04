@@ -7,7 +7,7 @@ header += '<h1><a href="index.html">Books</a></h1>'
 header += '</header>'
 header += '<nav>'
 header += '<a href="2024.html">2024</a> | <a href="2023.html">2023</a> | <a href="2022.html">2022</a> | <a href="2021.html">2021</a> | <a href="2020.html">2020</a> | <a href="2019.html">2019</a> | <a href="prior.html">prior</a><br><br>'
-header += '<a href="tags.html">tags</a> | <a href="toread.html">to read</a> | <a href="availability.html">availability</a>'
+header += '<a href="misc.html">misc (zines, etc)</a> | <a href="tags.html">tags</a> | <a href="toread.html">to read</a> | <a href="availability.html">availability</a>'
 header += '</nav><section>'
 footer = '</section></body></html>'
 
@@ -190,7 +190,7 @@ tagsFile.close()
 
 availability = header
 
-availability += '<h2>Availability:</h2>'
+availability += '<h2>Availability</h2>'
 
 owned = []
 libby = [] 
@@ -251,3 +251,38 @@ availability += footer
 availabilityFile = open('availability.html', "w+")
 availabilityFile.write(availability)
 availabilityFile.close()
+
+with open('misc-toread.txt') as f:
+    miscToRead = [x.strip().split(' | ') for x in f.readlines()]
+    f.close()
+
+with open('misc-read.txt') as f:
+    miscRead = [x.strip().split(' | ') for x in f.readlines()]
+    f.close()
+
+with open('misc-current.txt') as f:
+    miscCurrent = [x.strip().split(' | ') for x in f.readlines()]
+    f.close()
+
+misc = header
+misc += '<h2>Misc (zines, etc)</h2>'
+misc += '<h3>Currently Reading</h3>'
+misc += '<ul>'
+for x in miscCurrent:
+    misc += '<li><a href="' + x[2] + '" target="_blank">' + x[0] + '</a> by ' + x[1] + '</li>'
+misc += '</ul>'
+misc += '<h3>Read</h3>'
+misc += '<ul>'
+for x in miscRead:
+    misc += '<li><a href="' + x[2] + '" target="_blank">' + x[0] + '</a> by ' + x[1] + '</li>'
+misc += '</ul>'
+misc += '<h3>To Read</h3>'
+misc += '<ul>'
+for x in miscToRead:
+    misc += '<li><a href="' + x[2] + '" target="_blank">' + x[0] + '</a> by ' + x[1] + '</li>'
+misc += '</ul>'
+misc += footer
+
+miscFile = open('misc.html', "w+")
+miscFile.write(misc)
+miscFile.close()

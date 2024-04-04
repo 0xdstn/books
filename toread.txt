@@ -94,7 +94,6 @@ Buckland's Complete Book of Witchcraft | Raymond Buckland | witchcraft,spl,scld
 The Ten Thousand Doors of January | Alix E. Harrow | libby,supernatural
 What Witches Do | Stewart Farrar | witchcraft
 The Penguin Book of Witches | Katherine Howe | witchcraft,spl,scld
-The Color of Magic | Terry Pratchett | libby,supernatural
 An Enchantment of Ravens | Margaret Rogerson | libby,supernatural
 Unseelie | Ivelisse Housman | supernatural
 American Gods | Neil Gaiman | libby,thriller
@@ -105,7 +104,7 @@ Cloud Atlas | David Mitchell | libby,dark-academia
 The Stoic Path | Epictetus | philosophy
 The Atlas Six | Olivie Blake | libby,dark-academia
 The Secret History | Donna Tartt | libby,dark-academia
-The Mermaid, the Witch, and the Sea | Maggie Tokuda-Hall | supernatural,spl
+The Mermaid, the Witch, and the Sea | Maggie Tokuda-Hall | supernatural,romance,spl,libby
 The Physick Book of Deliverance Dane | Katherine Howe | supernatural,scld
 Toil & Trouble | Jessica Spotswood | supernatural,scld
 The Bells of Old Tokyo | Anna Sherman | japan,spl
@@ -187,7 +186,7 @@ Information Doesn't Want to Be Free | Cory Doctorow | tech,owned
 Context | Cory Doctorow | tech,owned
 The Complete Works of Edgar Allan Poe | Edgar Allan Poe | horror,owned
 Frankenstein | Mary Shelley | horror,owned
-The Cuckoo's Egg | Clifford Stoll | hackers
+The Cuckoo's Egg | Clifford Stoll | hackers,owned
 Kingpin | Kevin Poulsen | hackers,spl
 Anger | Thich Nhat Hanh | buddhism,owned
 Hacker, Hoaxer, Whistleblower, Spy | Gabriella Coleman | hackers,spl
@@ -236,7 +235,7 @@ Kwaidan | Lafcadio Hearn | horror,japan,scld
 Zen Koans | Gyomay M. Kubose | buddhism
 Kokoro | Natsume Sōseki | japan,spl
 The Book of Yokai | Michael Dylan Foster | japan,scld
-The Tao of Pooh | Benjamin Hoff | philosophy
+The Tao of Pooh | Benjamin Hoff | philosophy,owned
 How to Be an Inclusive Leader | Jennifer Brown | leadership
 We Are Anonymous | Parmy Olson | hackers,owned
 The Te of Piglet | Benjamin Hoff | philosophy
@@ -328,7 +327,6 @@ The Quest of the Simple Life | William James Dawson | self,owned
 The Book of Tea | Kakuzō Okakura | japan,owned
 Things That Are | Amy Leach | nature
 Wabi Sabi | Beth Kempton | self,japan,owned
-Show Your Work! | Austin Kleon | art,libby
 Steal Like an Artist | Austin Kleon | art,libby
 Goodbye Phone, Hello World | Paul Greenberg | self
 Think Like a Monk | Jay Shetty | self,libby
@@ -356,7 +354,7 @@ Strange Weather in Tokyo | Hiromi Kawakami | japan
 Sweet Bean Paste | Durian Sukegawa | japan
 Kitchen | Banana Yoshimoto | japan
 We Are In This Together | Beth Kempton | self,owned
-Kokoro | Beth Kempton | japan
+Kokoro | Beth Kempton | japan,owned
 Fear | Thich Nhat Hanh | buddhism,scld
 The Art of Simple Living | Shunmyō Masuno | buddhism,libby
 Love People, Use Things | Joshua Fields Millburn | self,libby
@@ -679,7 +677,6 @@ Echoes of Sherlock Holmes | Laurie R King | thriller,spl,scld
 An Introduction to Electronic Warfare | Chi-Hao Cheng | owned,knowledge,tech
 The Atlas of Christmas | Alex Palmer | christmas,scld
 Holidays on Ice | David Sedaris | christmas,scld
-Hogfather | Terry Pratchett | christmas,spl,scld
 Gulliver's Travels | Jonathan Swift | owned,supernatural
 The Invisible Library | Genevieve Cogman | libby,dark-academia
 Wanderlust | Rebecca Solnit | knowledge,scld
@@ -708,7 +705,7 @@ Stepping into Freedom | Thich Nhat Hanh | buddhism,owned
 A Mystery of Mysteries | Mark Dawidziak | libby,biography
 Ghost Eaters | Clay McLeod Chapman | libby,horror
 Hidden Pictures | Jason Rekulak | libby,horror
-Girls to the Front | Sara Marcus | feminism,knowledge
+Girls to the Front | Sara Marcus | feminism,knowledge,owned
 Coding Freedom | Gabriella Coleman | hackers
 Found Audio | NJ Campbell | horror
 Last Days | Adam Neville | horror
@@ -759,7 +756,7 @@ The Private Lives of Public Birds | Jack Gedney | birds,nature,spl
 Flight Paths | Rebecca Heisman | birds,nature,spl,scld
 Cyberpunk 2077: No Coincidence | Rafal Kosik | cyberpunk,spl
 Cyberpunk 2077: 2AM - She Calls | Tomasz Marchewka | cyberpunk
-The Witch | Ronald Hutton | witches,witchcraft,spl,scld
+The Witch | Ronald Hutton | supernatural,witchcraft,spl,scld
 Good Inside | Dr. Becky Kennedy | parenting,libby
 Spirit Legacy | E.E. Holmes | ghosts,kindle-unlimited,scld
 A Spell in the Wild | Alice Tarbuck | witchcraft,owned
@@ -778,7 +775,6 @@ Mindfully Green | Stephanie Kaza | buddhism,nature
 Fungi Delight of Curiosity | Harold Johnston Brodie | nature
 In the Company of Mushrooms | Moselio Schaechter | nature
 The Real World of Technology | Ursula M. Franklin | tech,self
-Deep Dive | Rae Baker | security,osint
 Henry Thoreau | Robert D. Richardson Jr. | biography
 Emerson | Robert D. Richardson Jr. | biography
 The Bible KJV | Unknown | religion,owned
@@ -832,8 +828,6 @@ Domain-Driven Design | Eric Evans | development,owned
 A Boy Called Christmas | Matt Haig | christmas,owned
 The Christmas Box | Richard Paul Evans | christmas,owned
 Christmas and Other Horrors | Ellen Datlow | christmas,horror,spl,scld
-Storm Front | Jim Butcher | supernatural,thriller,spl,scld
-Beginning Anew | Chan Khong | buddhism,owned
 Little Book of Contentment | Leo Babauta | self,owned
 The One Skill | Leo Babauta | self,owned
 Moon Bath | Dakota Hills | witchcraft,owned
@@ -842,6 +836,88 @@ The Lunation Cycle | Dane Rudhyar | witchcraft
 The Perfect Thing | Steven Levy | knowledge,tech
 Getting Things Done | David Allen | self,libby
 Please Unsubscribe, Thanks! | Julio Vincent Gambuto | self,scld,spl
-What You Are Looking For Is in the Library | Michiko Aoyama | japan,contemporary,libby
 Mara Turing. Rise of the Hakcers | Javi Padilla | hackers,kindle-unlimited
 The Haunting Season | Bridget Collins | ghosts,spl,scld
+The Creative Act: A Way of Being | Rick Rubin | art,spl,scld
+Silence: In the Age of Noise | Erling Kagge | self,spl
+Back in a Spell | Lana Harper | supernatural,romance,libby
+The Wisteria Society of Lady Scoundrels | India Holton | supernatural,romance,libby
+A Letter to Three Witches | Elizabeth Bass | supernatural,romance,libby
+The Ex Hex | Erin Sterling | supernatural,romance,libby
+The Very Secret Society of Irregular Witches | Sangu Mandanna | supernatural,romance,libby
+System error | Rob Reich | tech,spl
+Rapture of the Nerds | Cory Doctorow | scifi,owned
+Lost Cause | Cory Doctorow | hackers,owned
+Canadian Miracle | Cory Doctorow | hackers,owned
+For The Win | Cory Doctorow | scifi,owned
+Walkaway | Cory Doctorow | scifi,owned
+Party Discipline | Cory Doctorow | scifi,owned
+Pirate Cinema | Cory Doctorow | scifi,owned
+Radicalized | Cory Doctorow | scifi,owned
+Someone Comes To Town, Someone Leaves Town | Cory Doctorow | scifi,owned
+Down and Out in the Magic Kingdom | Cory Doctorow | scifi,owned
+Makers | Cory Doctorow | scifi,owned
+Eastern Standard Tribe | Cory Doctorow | scifi,owned
+Tabemasho! Let's Eat! | Gil Asakawa | japan,owned
+Eating Wild Japan | Winifred Bird | japan,nature,owned
+Just Enough | Azby Brown | japan,self,owned
+Japanese Cinema | Peter Cowie | japan,owned
+Off the Beaten Tracks in Japan | John Dougill | japan,owned
+of arcs and circles | Marc Peter Keane | japan,owned
+How to Take A Japanese Bath | Leonard Koren | japan,owned
+Tokyo Stroll | Gilles Poitras | japan,owned
+Discovering Yamaguchi Sake | Jim Rion | japan,owned
+A Bridge of Words | Hiroaki Sato | japan,owned
+Tokyo Junkie | Robert Whiting | japan,owned
+The Color of Magic | Terry Pratchett | fantasy,owned
+The Light Fantastic | Terry Pratchett | fantasy,owned
+Equal Rites | Terry Pratchett | fantasy,owned
+Mort | Terry Pratchett | fantasy,owned
+Sourcery | Terry Pratchett | fantasy,owned
+Wyrd Sisters | Terry Pratchett | fantasy,owned
+Pyramids | Terry Pratchett | fantasy,owned
+Guards! Guards! | Terry Pratchett | fantasy,owned
+Eric | Terry Pratchett | fantasy,owned
+Moving Pictures | Terry Pratchett | fantasy,owned
+Reaper Man | Terry Pratchett | fantasy,owned
+Witches Abroad | Terry Pratchett | fantasy,owned
+Small Gods | Terry Pratchett | fantasy,owned
+Lords and Ladies | Terry Pratchett | fantasy,owned
+Men at Arms | Terry Pratchett | fantasy,owned
+Soul Music | Terry Pratchett | fantasy,owned
+Interesting Times | Terry Pratchett | fantasy,owned
+Maskerade | Terry Pratchett | fantasy,owned
+Feet of Clay | Terry Pratchett | fantasy,owned
+Hogfather | Terry Pratchett | fantasy,owned
+Jingo | Terry Pratchett | fantasy,owned
+The Last Continent | Terry Pratchett | fantasy,owned
+Carpe Jugulum | Terry Pratchett | fantasy,owned
+The Fifth Elephant | Terry Pratchett | fantasy,owned
+The Truth | Terry Pratchett | fantasy,owned
+Thief of Time | Terry Pratchett | fantasy,owned
+The Last Hero | Terry Pratchett | fantasy
+The Amazing Maurice and His Educated Rodents | Terry Pratchett | fantasy,owned
+The Wee Free Men | Terry Pratchett | fantasy,owned
+Monstrous Regiment | Terry Pratchett | fantasy,owned
+A Hat Full of Sky | Terry Pratchett | fantasy,owned
+Going Postal | Terry Pratchett | fantasy,owned
+Thud! | Terry Pratchett | fantasy,owned
+Wintersmith | Terry Pratchett | fantasy,owned
+Making Money | Terry Pratchett | fantasy,owned
+Unseen Academicals | Terry Pratchett | fantasy,owned
+I Shall Wear Midnight | Terry Pratchett | fantasy,owned
+Snuff | Terry Pratchett | fantasy,owned
+Raising Steam | Terry Pratchett | fantasy
+The Shepherd's Crown | Terry Pratchett | fantasy,owned
+A Blink of the Screen | Terry Pratchett | fantasy
+Deep Dive | Rae Baker | security,osint,owned
+Ghosty Radio | Leopoldo Gout | paranormal
+Slow Productivity | Cal Newport | self,work,libby
+Snow Crash | Neal Stephenson | hackers,scifi,libby
+Artemis | Andy Weir | scifi,libby
+Otherworld | Jason Segel | scifi,libby
+Armada | Ernest Cline | scifi,libby
+In the Lives of Puppets | TJ Klune | fantasy,libby
+The Miracle Morning | Hal Elrod | self,libby
+Keep Going | Austin Kleon | art,libby
+Storm Front | Jim Butcher | supernatural,thriller,spl,scld
