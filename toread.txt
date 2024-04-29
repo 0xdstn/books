@@ -326,7 +326,6 @@ The Golden Sayings of Epictetus | Epictetus | philosophy,owned
 The Quest of the Simple Life | William James Dawson | self,owned
 The Book of Tea | Kakuzō Okakura | japan,owned
 Things That Are | Amy Leach | nature
-Wabi Sabi | Beth Kempton | self,japan,owned
 Steal Like an Artist | Austin Kleon | art,libby
 Goodbye Phone, Hello World | Paul Greenberg | self
 Think Like a Monk | Jay Shetty | self,libby
@@ -921,3 +920,6 @@ In the Lives of Puppets | TJ Klune | fantasy,libby
 The Miracle Morning | Hal Elrod | self,libby
 Keep Going | Austin Kleon | art,libby
 Storm Front | Jim Butcher | supernatural,thriller,spl,scld
+Turtles All The Way Down | John Green | libby,contemporary
+Wabi Sabi | Beth Kempton | self,japan,owned
+Dark Fringe Anthology | Shaun Baines | horror,owned,short-stories

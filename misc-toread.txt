@@ -52,3 +52,4 @@ lipu tenpo nanpa sewi | lipu tenpo | https://liputenpo.org/lipu/nanpa-sewi/
 lipu tenpo nanpa tenpo | lipu tenpo | https://liputenpo.org/lipu/nanpa-tenpo/ 
 lipu tenpo nanpa kalama | lipu tenpo | https://liputenpo.org/lipu/nanpa-kalama/ 
 lipu tenpo nanpa lili | lipu tenpo | https://liputenpo.org/lipu/nanpa-lili/ 
+NODE VOL 02 | NODE | https://n-o-d-e.live/zine/NODE_VOL_02.pdf
