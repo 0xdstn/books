@@ -923,3 +923,8 @@ Storm Front | Jim Butcher | supernatural,thriller,spl,scld
 Turtles All The Way Down | John Green | libby,contemporary
 Wabi Sabi | Beth Kempton | self,japan,owned
 Dark Fringe Anthology | Shaun Baines | horror,owned,short-stories
+The Green Witch | Arin Murphy-Hiscock | witchcraft,owned
+Waking the Witch | Pam Grossman | witchcraft,scld,spl,kindle-unlimited
+Awaken Online: Catharsis | Travis Bagwell | litrpg,fantasy,kindle-unlimited
+Beginning Anew | Chan Khong | buddhism,owned
+Open Music Theory | Various | music,knowledge,owned
