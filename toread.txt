@@ -178,7 +178,6 @@ The Strange Case of the Alchemist's Daughter | Theodora Goss | owned,supernatura
 Stranger Things: Lucas on the Line | Suyi Davies | stranger-things,scld
 Hamilton: The Revolution | Lin-Manuel Miranda | owned,knowledge
 Verses from the Center | Nāgārjuna | buddhism
-Attack Surface | Cory Doctorow | hackers,owned
 Busy Doing Nothing | Rekka Bellum | owned,memoir
 How to Relax | Thich Nhat Hanh | buddhism,owned
 How to Connect | Thich Nhat Hanh | buddhism,owned
@@ -306,8 +305,6 @@ Gathering Moss | Robin Wall Kimmerer | nature,scld
 Fragments | Heraclitus | philosophy
 The Art of Happiness | Epicurus | philosophy
 The Unfettered Mind | Takuan Soho | buddhism
-The Adoptive Parents' Handbook | Barbara Cummins Tantrum | parenting,owned
-Raising Good Humans | Hunter Clarke-Fields | parenting,libby
 Girl Decoded | Rana El Kaliouby | tech,spl,scld
 The Art of Solitude | Stephen Batchelor | self,spl,scld
 2BR02B | Kurt Vonnegut Jr. | horror,owned
@@ -717,7 +714,7 @@ The Lost Village | Camilla Sten | horror,spl,scld
 A Quiet Mind | Shoukei Matsumoto | owned,buddhism
 Goosebumps #6 Let's Get Invisible! | R.L. Stine | owned
 Joyful Militancy | Nick Montgomery, Carla Bergman | self,scld
-The Magical Writing Grimoire | Lisa Marie Basile | witchcraft,writing
+The Magical Writing Grimoire | Lisa Marie Basile | witchcraft,writing,libby
 Daily Rituals | Mason Currey | art,spl,scld
 Railway Ghosts and Highway Horrors | Daniel Cohen | ghosts
 IDENTIFIED | John Wilander | hackers
@@ -917,14 +914,20 @@ Artemis | Andy Weir | scifi,libby
 Otherworld | Jason Segel | scifi,libby
 Armada | Ernest Cline | scifi,libby
 In the Lives of Puppets | TJ Klune | fantasy,libby
-The Miracle Morning | Hal Elrod | self,libby
 Keep Going | Austin Kleon | art,libby
-Storm Front | Jim Butcher | supernatural,thriller,spl,scld
 Turtles All The Way Down | John Green | libby,contemporary
-Wabi Sabi | Beth Kempton | self,japan,owned
 Dark Fringe Anthology | Shaun Baines | horror,owned,short-stories
 The Green Witch | Arin Murphy-Hiscock | witchcraft,owned
 Waking the Witch | Pam Grossman | witchcraft,scld,spl,kindle-unlimited
 Awaken Online: Catharsis | Travis Bagwell | litrpg,fantasy,kindle-unlimited
-Beginning Anew | Chan Khong | buddhism,owned
 Open Music Theory | Various | music,knowledge,owned
+Art Magick | Molly Roberts | art,witchcraft,hoopla
+You Like It Darker | Stephen King | horror,libby
+Lost Contact | Max Booth III | horror
+The Extraordinary Disappointments of Leopold Berry | Ransom Riggs | scifi
+Warcross | Marie Lu | scifi,libby
+Fool Moon | Jim Butcher | supernatural,thriller,spl,scld
+The 5 Love Languages | Gary Chapman | relationships,libby
+Wabi Sabi | Beth Kempton | self,japan,owned
+Pen Test Diaries | Mike Sheward | hackers,security,kindle-unlimited
+Digital Forensic Diaries | Mike Sheward | hackers,security,kindle-unlimited
